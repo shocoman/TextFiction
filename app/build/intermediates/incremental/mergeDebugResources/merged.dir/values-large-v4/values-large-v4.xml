@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="alice.bubble_sidemargin">75dp</dimen>
+    <dimen name="alice.bubble_topmargin">20dp</dimen>
+    <dimen name="jason.bubble_sidemargin">75dp</dimen>
+    <dimen name="jason.bubble_topmargin">20dp</dimen>
+    <dimen name="lucy.bubble_sidemargin">75dp</dimen>
+    <dimen name="lucy.bubble_topmargin">20dp</dimen>
+    <dimen name="nemo.bubble_sidemargin">75dp</dimen>
+    <dimen name="nemo.bubble_topmargin">20dp</dimen>
+    <item name="fragment_library" type="layout">@layout/fragment_library_grid</item>
+</resources>

@@ -1,0 +1,125 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="de.onyxbits.textfiction"
+4    android:versionCode="11"
+5    android:versionName="2.7" >
+6
+7    <uses-sdk
+7-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:7:2-8:31
+8        android:minSdkVersion="14"
+8-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:8:3-28
+9        android:targetSdkVersion="17" />
+9-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:7:2-8:31
+10
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+11-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:10:2-77
+11-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:10:19-74
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:11:2-78
+12-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:11:19-75
+13
+14    <application
+14-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:13:2-59:16
+15        android:allowBackup="true"
+15-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:14:3-29
+16        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+16-->[com.android.support:support-compat:28.0.0] /home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+17        android:debuggable="true"
+18        android:icon="@drawable/ic_launcher"
+18-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:15:3-39
+19        android:label="@string/app_name"
+19-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:16:3-35
+20        android:testOnly="true"
+21        android:theme="@style/Nemo" >
+21-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:17:3-30
+22        <activity
+22-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:18:3-40:14
+23            android:name="de.onyxbits.textfiction.MainActivity"
+23-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:19:4-32
+24            android:label="@string/app_name"
+24-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:20:4-36
+25            android:windowSoftInputMode="stateAlwaysHidden" >
+25-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:21:4-51
+26            <intent-filter>
+26-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:22:4-26:20
+27                <action android:name="android.intent.action.MAIN" />
+27-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:23:5-57
+27-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:23:13-54
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:25:5-65
+29-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:25:15-62
+30            </intent-filter>
+31            <intent-filter>
+31-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:27:4-39:20
+32                <action android:name="android.intent.action.VIEW" />
+32-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:28:5-57
+32-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:28:13-54
+33
+34                <category android:name="android.intent.category.DEFAULT" />
+34-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:30:5-64
+34-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:30:15-61
+35                <category android:name="android.intent.category.BROWSABLE" />
+35-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:31:5-66
+35-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:31:15-63
+36
+37                <data android:scheme="file" />
+37-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:32:5-35
+37-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:32:11-32
+38                <data android:scheme="" />
+38-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:32:5-35
+38-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:32:11-32
+39                <data android:host="*" />
+39-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:32:5-35
+39-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:34:11-27
+40                <data android:pathPattern=".*\\.z3" />
+40-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:32:5-35
+40-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:35:11-40
+41                <data android:pathPattern=".*\\.z5" />
+41-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:32:5-35
+41-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:35:11-40
+42                <data android:pathPattern=".*\\.z8" />
+42-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:32:5-35
+42-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:35:11-40
+43                <data android:pathPattern=".*\\.zblorb" />
+43-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:32:5-35
+43-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:35:11-40
+44            </intent-filter>
+45        </activity>
+46        <activity
+46-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:41:3-49:14
+47            android:name="de.onyxbits.textfiction.GameActivity"
+47-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:42:4-55
+48            android:label="@string/title_activity_game"
+48-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:43:4-47
+49            android:parentActivityName="de.onyxbits.textfiction.MainActivity"
+49-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:44:4-46
+50            android:windowSoftInputMode="stateAlwaysHidden" >
+50-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:45:4-51
+51            <meta-data
+51-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:46:4-48:37
+52                android:name="android.support.PARENT_ACTIVITY"
+52-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:47:5-51
+53                android:value=".MainActivity" />
+53-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:48:5-34
+54        </activity>
+55        <activity
+55-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:50:3-58:14
+56            android:name="de.onyxbits.textfiction.SettingActivity"
+56-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:51:4-58
+57            android:label="@string/title_activity_setting"
+57-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:54:4-50
+58            android:parentActivityName="de.onyxbits.textfiction.MainActivity"
+58-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:53:4-46
+59            android:theme="@style/AppTheme" >
+59-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:52:4-35
+60            <meta-data
+60-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:46:4-48:37
+61                android:name="android.support.PARENT_ACTIVITY"
+61-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:47:5-51
+62                android:value=".MainActivity" />
+62-->/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/AndroidManifest.xml:48:5-34
+63        </activity>
+64    </application>
+65
+66</manifest>

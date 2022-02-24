@@ -1,0 +1,1239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="com.android.support:support-compat:28.0.0$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="com.android.support:support-compat:28.0.0" from-dependency="true" generated-set="com.android.support:support-compat:28.0.0$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res"><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-ml/values-ml.xml" qualifiers="ml"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-zu/values-zu.xml" qualifiers="zu"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-vi/values-vi.xml" qualifiers="vi"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-fr-rCA/values-fr-rCA.xml" qualifiers="fr-rCA"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-eu/values-eu.xml" qualifiers="eu"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-th/values-th.xml" qualifiers="th"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-or/values-or.xml" qualifiers="or"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-am/values-am.xml" qualifiers="am"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-cs/values-cs.xml" qualifiers="cs"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-bn/values-bn.xml" qualifiers="bn"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"৯৯৯+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-da/values-da.xml" qualifiers="da"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-zh-rHK/values-zh-rHK.xml" qualifiers="zh-rHK"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-en-rAU/values-en-rAU.xml" qualifiers="en-rAU"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-hy/values-hy.xml" qualifiers="hy"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-pl/values-pl.xml" qualifiers="pl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-nb/values-nb.xml" qualifiers="nb"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-uz/values-uz.xml" qualifiers="uz"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-as/values-as.xml" qualifiers="as"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"৯৯৯+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-fi/values-fi.xml" qualifiers="fi"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-ms/values-ms.xml" qualifiers="ms"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-et/values-et.xml" qualifiers="et"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-es/values-es.xml" qualifiers="es"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"+999"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-it/values-it.xml" qualifiers="it"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-mr/values-mr.xml" qualifiers="mr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"९९९+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values/values.xml" qualifiers=""><color name="notification_action_color_filter">#ffffffff</color><color name="notification_icon_bg_color">#ff9e9e9e</color><color name="ripple_material_light">#1f000000</color><color name="secondary_text_default_material_light">#8a000000</color><declare-styleable name="ColorStateListItem">
+        
+        <attr name="android:color"/>
+        
+        <attr format="float" name="alpha"/>
+        <attr name="android:alpha"/>
+    </declare-styleable><declare-styleable name="FontFamily">
+        
+        <attr format="string" name="fontProviderAuthority"/>
+        
+        <attr format="string" name="fontProviderPackage"/>
+        
+        <attr format="string" name="fontProviderQuery"/>
+        
+        <attr format="reference" name="fontProviderCerts"/>
+        
+        <attr name="fontProviderFetchStrategy">
+            
+            <enum name="blocking" value="0"/>
+            
+            <enum name="async" value="1"/>
+        </attr>
+        
+        <attr format="integer" name="fontProviderFetchTimeout">
+            
+            <enum name="forever" value="-1"/>
+        </attr>
+    </declare-styleable><declare-styleable name="FontFamilyFont">
+        
+        <attr name="fontStyle">
+            <enum name="normal" value="0"/>
+            <enum name="italic" value="1"/>
+        </attr>
+        
+        <attr format="reference" name="font"/>
+        
+        <attr format="integer" name="fontWeight"/>
+        
+        <attr format="string" name="fontVariationSettings"/>
+        
+        <attr format="integer" name="ttcIndex"/>
+        
+        <attr name="android:fontStyle"/>
+        <attr name="android:font"/>
+        <attr name="android:fontWeight"/>
+        <attr name="android:fontVariationSettings"/>
+        <attr name="android:ttcIndex"/>
+    </declare-styleable><declare-styleable name="GradientColor">
+        
+        <attr name="android:startColor"/>
+        
+        <attr name="android:centerColor"/>
+        
+        <attr name="android:endColor"/>
+        
+        <attr name="android:type"/>
+
+        
+        
+        <attr name="android:gradientRadius"/>
+
+        
+        
+        <attr name="android:centerX"/>
+        
+        <attr name="android:centerY"/>
+
+        
+        
+        <attr name="android:startX"/>
+        
+        <attr name="android:startY"/>
+        
+        <attr name="android:endX"/>
+        
+        <attr name="android:endY"/>
+
+        
+        <attr name="android:tileMode"/>
+    </declare-styleable><declare-styleable name="GradientColorItem">
+        
+        <attr name="android:offset"/>
+        
+        <attr name="android:color"/>
+    </declare-styleable><dimen name="compat_button_inset_horizontal_material">4dp</dimen><dimen name="compat_button_inset_vertical_material">6dp</dimen><dimen name="compat_button_padding_horizontal_material">8dp</dimen><dimen name="compat_button_padding_vertical_material">4dp</dimen><dimen name="compat_control_corner_material">2dp</dimen><dimen name="compat_notification_large_icon_max_height">320dp</dimen><dimen name="compat_notification_large_icon_max_width">320dp</dimen><dimen name="notification_action_icon_size">32dp</dimen><dimen name="notification_action_text_size">13sp</dimen><dimen name="notification_big_circle_margin">12dp</dimen><dimen name="notification_content_margin_start">8dp</dimen><dimen name="notification_large_icon_height">64dp</dimen><dimen name="notification_large_icon_width">64dp</dimen><dimen name="notification_main_column_padding_top">10dp</dimen><dimen name="notification_media_narrow_margin">@dimen/notification_content_margin_start</dimen><dimen name="notification_right_icon_size">16dp</dimen><dimen name="notification_right_side_padding_top">2dp</dimen><dimen name="notification_small_icon_background_padding">3dp</dimen><dimen name="notification_small_icon_size_as_large">24dp</dimen><dimen name="notification_subtext_size">13sp</dimen><dimen name="notification_top_pad">10dp</dimen><dimen name="notification_top_pad_large_text">5dp</dimen><drawable name="notification_template_icon_bg">#3333B5E5</drawable><drawable name="notification_template_icon_low_bg">#0cffffff</drawable><item name="line1" type="id"/><item name="line3" type="id"/><item name="tag_transition_group" type="id"/><item name="tag_unhandled_key_event_manager" type="id"/><item name="tag_unhandled_key_listeners" type="id"/><item name="text" type="id"/><item name="text2" type="id"/><item name="title" type="id"/><integer name="status_bar_notification_info_maxnum">999</integer><string name="status_bar_notification_info_overflow">999+</string><style name="TextAppearance.Compat.Notification" parent="@android:style/TextAppearance.StatusBar.EventContent"/><style name="TextAppearance.Compat.Notification.Info">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style><style name="TextAppearance.Compat.Notification.Line2" parent="TextAppearance.Compat.Notification.Info"/><style name="TextAppearance.Compat.Notification.Time">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style><style name="TextAppearance.Compat.Notification.Title" parent="@android:style/TextAppearance.StatusBar.EventContent.Title"/><style name="Widget.Compat.NotificationActionContainer" parent=""/><style name="Widget.Compat.NotificationActionText" parent=""/></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-ro/values-ro.xml" qualifiers="ro"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-km/values-km.xml" qualifiers="km"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-be/values-be.xml" qualifiers="be"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-kk/values-kk.xml" qualifiers="kk"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-sw/values-sw.xml" qualifiers="sw"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-in/values-in.xml" qualifiers="in"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-pt/values-pt.xml" qualifiers="pt"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-en-rIN/values-en-rIN.xml" qualifiers="en-rIN"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-lv/values-lv.xml" qualifiers="lv"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-fa/values-fa.xml" qualifiers="fa"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-mk/values-mk.xml" qualifiers="mk"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-sv/values-sv.xml" qualifiers="sv"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-en-rGB/values-en-rGB.xml" qualifiers="en-rGB"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-fr/values-fr.xml" qualifiers="fr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-ca/values-ca.xml" qualifiers="ca"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-iw/values-iw.xml" qualifiers="iw"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-kn/values-kn.xml" qualifiers="kn"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-tl/values-tl.xml" qualifiers="tl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-ar/values-ar.xml" qualifiers="ar"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-ta/values-ta.xml" qualifiers="ta"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-v16/values-v16.xml" qualifiers="v16"><dimen name="notification_right_side_padding_top">4dp</dimen></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-sk/values-sk.xml" qualifiers="sk"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-ka/values-ka.xml" qualifiers="ka"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-ur/values-ur.xml" qualifiers="ur"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"+999"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-mn/values-mn.xml" qualifiers="mn"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-is/values-is.xml" qualifiers="is"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-hr/values-hr.xml" qualifiers="hr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-gu/values-gu.xml" qualifiers="gu"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-af/values-af.xml" qualifiers="af"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-el/values-el.xml" qualifiers="el"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-lt/values-lt.xml" qualifiers="lt"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-ru/values-ru.xml" qualifiers="ru"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-tr/values-tr.xml" qualifiers="tr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-az/values-az.xml" qualifiers="az"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-bg/values-bg.xml" qualifiers="bg"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-gl/values-gl.xml" qualifiers="gl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">">999"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-sq/values-sq.xml" qualifiers="sq"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-ko/values-ko.xml" qualifiers="ko"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-zh-rTW/values-zh-rTW.xml" qualifiers="zh-rTW"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-si/values-si.xml" qualifiers="si"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-ky/values-ky.xml" qualifiers="ky"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-te/values-te.xml" qualifiers="te"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-pt-rPT/values-pt-rPT.xml" qualifiers="pt-rPT"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-my/values-my.xml" qualifiers="my"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"၉၉၉+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-sr/values-sr.xml" qualifiers="sr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-en-rCA/values-en-rCA.xml" qualifiers="en-rCA"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-lo/values-lo.xml" qualifiers="lo"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-es-rUS/values-es-rUS.xml" qualifiers="es-rUS"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-bs/values-bs.xml" qualifiers="bs"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-de/values-de.xml" qualifiers="de"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-pa/values-pa.xml" qualifiers="pa"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-zh-rCN/values-zh-rCN.xml" qualifiers="zh-rCN"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-v21/values-v21.xml" qualifiers="v21"><color name="notification_action_color_filter">@color/secondary_text_default_material_light</color><dimen name="notification_content_margin_start">0dp</dimen><dimen name="notification_main_column_padding_top">0dp</dimen><dimen name="notification_media_narrow_margin">12dp</dimen><style name="TextAppearance.Compat.Notification" parent="@android:style/TextAppearance.Material.Notification"/><style name="TextAppearance.Compat.Notification.Info" parent="@android:style/TextAppearance.Material.Notification.Info"/><style name="TextAppearance.Compat.Notification.Time" parent="@android:style/TextAppearance.Material.Notification.Time"/><style name="TextAppearance.Compat.Notification.Title" parent="@android:style/TextAppearance.Material.Notification.Title"/><style name="Widget.Compat.NotificationActionContainer" parent="">
+        <item name="android:background">@drawable/notification_action_background</item>
+    </style><style name="Widget.Compat.NotificationActionText" parent="">
+        <item name="android:textAppearance">?android:attr/textAppearanceButton</item>
+        <item name="android:textColor">@color/secondary_text_default_material_light</item>
+        <item name="android:textSize">@dimen/notification_action_text_size</item>
+    </style></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-hu/values-hu.xml" qualifiers="hu"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-uk/values-uk.xml" qualifiers="uk"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-en-rXC/values-en-rXC.xml" qualifiers="en-rXC"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‎‏‏‏‎‏‏‎‏‏‏‎‏‏‎‎‎‎‏‎‏‎‎‎‏‏‏‏‏‎‏‏‏‎‏‎‏‎‏‏‏‎‎‏‎‏‏‏‎‏‏‏‏‏‏‏‎‎‎‏‏‎999+‎‏‎‎‏‎"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-sl/values-sl.xml" qualifiers="sl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-hi/values-hi.xml" qualifiers="hi"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-pt-rBR/values-pt-rBR.xml" qualifiers="pt-rBR"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-b+sr+Latn/values-b+sr+Latn.xml" qualifiers="b+sr+Latn"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-nl/values-nl.xml" qualifiers="nl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-ja/values-ja.xml" qualifiers="ja"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/bob/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/res/values-ne/values-ne.xml" qualifiers="ne"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"९९९+"</string></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="com.android.support:coordinatorlayout:28.0.0$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/bob/.gradle/caches/transforms-3/8f2c9aba696705a6e7daac88cb9c697c/transformed/coordinatorlayout-28.0.0/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="com.android.support:coordinatorlayout:28.0.0" from-dependency="true" generated-set="com.android.support:coordinatorlayout:28.0.0$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/bob/.gradle/caches/transforms-3/8f2c9aba696705a6e7daac88cb9c697c/transformed/coordinatorlayout-28.0.0/res"><file path="/home/bob/.gradle/caches/transforms-3/8f2c9aba696705a6e7daac88cb9c697c/transformed/coordinatorlayout-28.0.0/res/values/values.xml" qualifiers=""><attr format="reference" name="coordinatorLayoutStyle"/><declare-styleable name="CoordinatorLayout">
+        
+        <attr format="reference" name="keylines"/>
+        
+        <attr format="color|reference" name="statusBarBackground"/>
+    </declare-styleable><declare-styleable name="CoordinatorLayout_Layout">
+        <attr name="android:layout_gravity"/>
+        
+        <attr format="string" name="layout_behavior"/>
+        
+        <attr format="reference" name="layout_anchor"/>
+        
+        <attr format="integer" name="layout_keyline"/>
+
+        
+        <attr name="layout_anchorGravity">
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="center_vertical" value="0x10"/>
+            
+            <flag name="fill_vertical" value="0x70"/>
+            
+            <flag name="center_horizontal" value="0x01"/>
+            
+            <flag name="fill_horizontal" value="0x07"/>
+            
+            <flag name="center" value="0x11"/>
+            
+            <flag name="fill" value="0x77"/>
+            
+            <flag name="clip_vertical" value="0x80"/>
+            
+            <flag name="clip_horizontal" value="0x08"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+        </attr>
+
+        
+        <attr format="enum" name="layout_insetEdge">
+            
+            <enum name="none" value="0x0"/>
+            
+            <enum name="top" value="0x30"/>
+            
+            <enum name="bottom" value="0x50"/>
+            
+            <enum name="left" value="0x03"/>
+            
+            <enum name="right" value="0x05"/>
+            
+            <enum name="start" value="0x00800003"/>
+            
+            <enum name="end" value="0x00800005"/>
+        </attr>
+        
+        <attr name="layout_dodgeInsetEdges">
+            
+            <flag name="none" value="0x0"/>
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+            
+            <flag name="all" value="0x77"/>
+        </attr>
+    </declare-styleable><style name="Widget.Support.CoordinatorLayout" parent="android:Widget">
+        <item name="statusBarBackground">#000000</item>
+    </style></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="com.android.support:support-media-compat:28.0.0$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/bob/.gradle/caches/transforms-3/ecfe40b5b64b269434758ba80a7d9da3/transformed/support-media-compat-28.0.0/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="com.android.support:support-media-compat:28.0.0" from-dependency="true" generated-set="com.android.support:support-media-compat:28.0.0$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/bob/.gradle/caches/transforms-3/ecfe40b5b64b269434758ba80a7d9da3/transformed/support-media-compat-28.0.0/res"><file path="/home/bob/.gradle/caches/transforms-3/ecfe40b5b64b269434758ba80a7d9da3/transformed/support-media-compat-28.0.0/res/values/values.xml" qualifiers=""><color name="notification_material_background_media_default_color">#ff424242</color><color name="primary_text_default_material_dark">#ffffffff</color><color name="secondary_text_default_material_dark">#b3ffffff</color><dimen name="subtitle_corner_radius">2dp</dimen><dimen name="subtitle_outline_width">2dp</dimen><dimen name="subtitle_shadow_offset">2dp</dimen><dimen name="subtitle_shadow_radius">2dp</dimen><integer name="cancel_button_image_alpha">127</integer><style name="TextAppearance.Compat.Notification.Info.Media"/><style name="TextAppearance.Compat.Notification.Line2.Media" parent="TextAppearance.Compat.Notification.Info.Media"/><style name="TextAppearance.Compat.Notification.Media"/><style name="TextAppearance.Compat.Notification.Time.Media"/><style name="TextAppearance.Compat.Notification.Title.Media"/></file><file path="/home/bob/.gradle/caches/transforms-3/ecfe40b5b64b269434758ba80a7d9da3/transformed/support-media-compat-28.0.0/res/values-v24/values-v24.xml" qualifiers="v24"><style name="TextAppearance.Compat.Notification.Info.Media"/><style name="TextAppearance.Compat.Notification.Media"/><style name="TextAppearance.Compat.Notification.Time.Media"/><style name="TextAppearance.Compat.Notification.Title.Media"/></file><file path="/home/bob/.gradle/caches/transforms-3/ecfe40b5b64b269434758ba80a7d9da3/transformed/support-media-compat-28.0.0/res/values-v21/values-v21.xml" qualifiers="v21"><style name="TextAppearance.Compat.Notification.Info.Media">
+        <item name="android:textColor">@color/secondary_text_default_material_dark</item>
+    </style><style name="TextAppearance.Compat.Notification.Media">
+        <item name="android:textColor">@color/secondary_text_default_material_dark</item>
+    </style><style name="TextAppearance.Compat.Notification.Time.Media">
+        <item name="android:textColor">@color/secondary_text_default_material_dark</item>
+    </style><style name="TextAppearance.Compat.Notification.Title.Media">
+        <item name="android:textColor">@color/primary_text_default_material_dark</item>
+    </style></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res"/><source path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/build/generated/res/rs/debug"/><source path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/build/generated/res/resValues/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res"><file name="ic_action_user11" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_user11.png" qualifiers="hdpi-v4" type="drawable"/><file name="clark_textfield_disabled_holo_light" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/clark_textfield_disabled_holo_light.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_user25" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_user25.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_delete" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_delete.png" qualifiers="hdpi-v4" type="drawable"/><file name="dinah_prompt_textfield_disabled_focused_holo_light" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/dinah_prompt_textfield_disabled_focused_holo_light.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_user0" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_user0.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_left" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_left.png" qualifiers="hdpi-v4" type="drawable"/><file name="clark_textfield_default_holo_light" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/clark_textfield_default_holo_light.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_user12" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_user12.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_user19" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_user19.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_user3" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_user3.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_user23" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_user23.png" qualifiers="hdpi-v4" type="drawable"/><file name="dinah_prompt_textfield_disabled_holo_light" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/dinah_prompt_textfield_disabled_holo_light.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_compass_blank" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_compass_blank.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_submit" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_submit.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_keyboard" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_keyboard.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_clearlog" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_clearlog.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_user18" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_user18.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_down" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_down.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_save" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_save.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_user15" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_user15.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_user13" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_user13.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_browse" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_browse.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_help" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_help.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_user4" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_user4.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_forward" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_forward.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_user10" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_user10.png" qualifiers="hdpi-v4" type="drawable"/><file name="dinah_prompt_textfield_focused_holo_light" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/dinah_prompt_textfield_focused_holo_light.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_user5" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_user5.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_user14" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_user14.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_fullscreen" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_fullscreen.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_user22" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_user22.png" qualifiers="hdpi-v4" type="drawable"/><file name="dinah_prompt_textfield_default_holo_light" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/dinah_prompt_textfield_default_holo_light.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_user7" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_user7.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_user26" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_user26.png" qualifiers="hdpi-v4" type="drawable"/><file name="clark_textfield_activated_holo_light" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/clark_textfield_activated_holo_light.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_import" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_import.png" qualifiers="hdpi-v4" type="drawable"/><file name="clark_textfield_focused_holo_light" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/clark_textfield_focused_holo_light.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="clark_textfield_disabled_focused_holo_light" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/clark_textfield_disabled_focused_holo_light.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_settings" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_settings.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_user1" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_user1.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_user16" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_user16.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_user21" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_user21.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_user31" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_user31.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_user28" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_user28.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_expand" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_expand.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_user8" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_user8.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_right" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_right.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_user30" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_user30.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_user24" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_user24.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_user27" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_user27.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_user29" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_user29.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_user9" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_user9.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_user2" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_user2.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_restart" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_restart.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_user20" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_user20.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_user17" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_user17.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_up" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_up.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_user6" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_user6.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_restore" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_restore.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_flip" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/ic_action_flip.png" qualifiers="hdpi-v4" type="drawable"/><file name="dinah_prompt_textfield_activated_holo_light" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-hdpi/dinah_prompt_textfield_activated_holo_light.9.png" qualifiers="hdpi-v4" type="drawable"/><file path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/values-large/dimens.xml" qualifiers="large-v4"><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="activity_vertical_margin">16dp</dimen><dimen name="nemo.bubble_sidemargin">75dp</dimen><dimen name="nemo.bubble_topmargin">20dp</dimen><dimen name="alice.bubble_sidemargin">75dp</dimen><dimen name="alice.bubble_topmargin">20dp</dimen><dimen name="lucy.bubble_sidemargin">75dp</dimen><dimen name="lucy.bubble_topmargin">20dp</dimen><dimen name="jason.bubble_sidemargin">75dp</dimen><dimen name="jason.bubble_topmargin">20dp</dimen></file><file path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/values-large/refs.xml" qualifiers="large-v4"><item name="fragment_library" type="layout">@layout/fragment_library_grid</item></file><file path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/values-v11/styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+		
+	</style></file><file name="ic_action_user11" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/ic_action_user11.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="clark_textfield_disabled_holo_light" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/clark_textfield_disabled_holo_light.9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_user25" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/ic_action_user25.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="dinah_prompt_textfield_disabled_focused_holo_light" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/dinah_prompt_textfield_disabled_focused_holo_light.9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_user0" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/ic_action_user0.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_left" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/ic_action_left.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="clark_textfield_default_holo_light" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/clark_textfield_default_holo_light.9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_user12" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/ic_action_user12.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_user19" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/ic_action_user19.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_user3" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/ic_action_user3.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_user23" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/ic_action_user23.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="dinah_prompt_textfield_disabled_holo_light" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/dinah_prompt_textfield_disabled_holo_light.9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_compass_blank" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/ic_compass_blank.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_keyboard" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/ic_action_keyboard.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_user18" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/ic_action_user18.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_down" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/ic_action_down.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_user15" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/ic_action_user15.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_user13" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/ic_action_user13.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_user4" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/ic_action_user4.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_forward" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/ic_action_forward.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_user10" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/ic_action_user10.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="dinah_prompt_textfield_focused_holo_light" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/dinah_prompt_textfield_focused_holo_light.9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_user5" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/ic_action_user5.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_user14" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/ic_action_user14.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_user22" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/ic_action_user22.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="dinah_prompt_textfield_default_holo_light" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/dinah_prompt_textfield_default_holo_light.9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_user7" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/ic_action_user7.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_user26" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/ic_action_user26.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="clark_textfield_activated_holo_light" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/clark_textfield_activated_holo_light.9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="clark_textfield_focused_holo_light" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/clark_textfield_focused_holo_light.9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_launcher" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="clark_textfield_disabled_focused_holo_light" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/clark_textfield_disabled_focused_holo_light.9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_user1" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/ic_action_user1.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_user16" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/ic_action_user16.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_user21" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/ic_action_user21.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_user31" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/ic_action_user31.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_user28" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/ic_action_user28.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_user8" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/ic_action_user8.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_right" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/ic_action_right.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_user30" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/ic_action_user30.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_user24" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/ic_action_user24.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_user27" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/ic_action_user27.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_user29" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/ic_action_user29.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_user9" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/ic_action_user9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_user2" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/ic_action_user2.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_user20" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/ic_action_user20.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_user17" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/ic_action_user17.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_up" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/ic_action_up.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_user6" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/ic_action_user6.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="dinah_prompt_textfield_activated_holo_light" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xxhdpi/dinah_prompt_textfield_activated_holo_light.9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="settings" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/xml/settings.xml" qualifiers="" type="xml"/><file path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/values-v14/styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+		
+	</style></file><file path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/values-cs/strings_settings.xml" qualifiers="cs"><string-array name="theme_names_values">
+		<item name="0">Nemo</item>
+		<item name="1">Alice</item>
+		<item name="2">Lucy</item>
+		<item name="3">Mina</item>
+		<item name="4">Jason</item>
+		<item name="5">Atalanta</item>
+		<item name="6">Dinah</item>
+	</string-array><string-array name="theme_names">
+		<item name="0">Nemo</item>
+		<item name="1">Alice</item>
+		<item name="2">Lucy</item>
+		<item name="3">Mina</item>
+		<item name="4">Jason</item>
+		<item name="5">Atalanta</item>
+		<item name="6">Dinah</item>
+	</string-array><string-array name="font_names_values">
+		<item name="0">default</item>
+		<item name="1">sans</item>
+		<item name="2">serif</item>
+		<item name="3">monospace</item>
+		<item name="4">comicsans</item>
+		<item name="5">ziggyzoe</item>
+	</string-array><string-array name="font_names">
+		<item name="0">Default</item>
+		<item name="1">Sans</item>
+		<item name="2">Serif</item>
+		<item name="3">Monospace</item>
+		<item name="4">Comic Sans</item>
+		<item name="5">Ziggy Zoe</item>
+	</string-array><string-array name="fontsize_names_values">
+		<item name="0">small</item>
+		<item name="1">medium</item>
+		<item name="2">large</item>
+	</string-array><string-array name="fontsize_names">
+		<item name="0">Malé</item>
+		<item name="1">Střední</item>
+		<item name="2">Velké</item>
+	</string-array><string name="title_theme">Motiv</string><string name="font_title">Písmo</string><string name="fontsize_title">Velikost písma</string><string name="category_appearance">Vzhled</string><string name="category_audio">Zvuk</string><string name="keyclick_summary">Tón při klepnutí na slova ve vyprávění</string><string name="keyclick_title">Zvuková zpětná vazba</string><string name="narrator_summary">Automaticky předčítat nové části příběhu (vyprávění může být kdykoliv přerušeno ťuknutím do volného prostoru nové položky a znovu spuštěno dlouhým stiskem)</string><string name="narrator_title">Převod textu na řeč</string><string name="category_misc">Ostatní</string><string name="smoothscrolling_title">Plynulé posouvání</string><string name="smoothscrolling_summary">Zapne plynulé posouvání textu</string><string name="autocollapse_keyboard">Automatické skrývání klávesnice</string><string name="hide_the_keyboard_when_pressing_done">Skrýt klávesnici po stisknutí tlačítka \'Hotovo\'</string><string name="msg_question_restart">Pro uplatnění změny motivu je třeba restartovat aplikaci. Restart hned?</string></file><file path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/values-cs/strings.xml" qualifiers="cs"><string name="action_settings">Nastavení</string><string name="hello_world">Hello world!</string><string name="apprater_title">Hodnotit tuto aplikaci?</string><string name="apprater_message">Ahoj,\nvypadá to, že ti přijde tato aplikace užitečná. Co ji takhle ohodnotit? Zabere to jen minutku tvého času, ale podpoří další rozvoj aplikace.</string><string name="apprater_positive">Jasně!</string><string name="apprater_negative">Ne, děkuji</string><string name="apprater_neutral">Později</string><string name="msg_corrupt_z">Poškozený herní soubor</string><string name="title_activity_game">GameActivity</string><string name="msg_what_next">Co dál?</string><string name="cmd_user0">look</string><string name="cmd_user1">examine</string><string name="cmd_user2">read</string><string name="cmd_user3">yes</string><string name="cmd_user4">no</string><string name="cmd_user5">open</string><string name="cmd_user6">close</string><string name="cmd_user7">inventory</string><string name="cmd_user8">get</string><string name="cmd_user9">drop</string><string name="cmd_user10">take all</string><string name="cmd_user11">wait</string><string name="cmd_user12">use</string><string name="cmd_user13">again</string><string name="msg_no_cmd">Tlačítko nelze navázat na prázdný příkaz!</string><string name="mi_add">Přidat</string><string name="title_really_delete">Opravdu smazat?</string><string name="msg_empty_library">Vaše knihovna je momentálně prázdná! Pro přidání her vyberte v nabídce položku \'Procházet katalog\'. Použijte \'Import\', pokud prohlížeč nepředá stažené soubory automaticky.</string><string name="mi_save">Uložit</string><string name="mi_restore">Obnovit</string><string name="mi_restart">Restartovat</string><string name="mi_browse">Procházet katalog</string><string name="mi_import">Import</string><string name="title_select_import">Vybrat hry pro import</string><string name="msg_failure_import">Chyba!</string><string name="msg_nothing_to_import">Žádné hry v adresáři pro stahování!</string><string name="mi_clear_log">Vyčistit</string><string name="cb_at_once">Provést naráz</string><string name="mi_help">Pomoc</string><string name="mi_settings">Nastavení</string><string name="status_score">%1$s\nSkóre: %2$d Tahů: %3$d</string><string name="status_time">%1$s\n%2$s</string><string name="title_change_commmand">Upravit tlačítko</string><string name="msg_corrupt_game_file">Poškozený herní soubor</string><string name="mi_flip_view">Otočit náhled</string><string name="title_please_confirm">Prosím potvrďte</string><string name="msg_really_restart">Opravdu znovu spustit hru?</string><string name="title_restore_game">Obnovit hru</string><string name="msg_no_savegames">Nejsou dostupné uložené hry</string><string name="msg_game_restored">Hra obnovena</string><string name="msg_restore_failed">Obnovení selhalo</string><string name="title_save_game">Uložené hry</string><string name="msg_game_saved">Hra uložena</string><string name="msg_no_webbrowser">Nebyl nalezen prohlížeč!</string><string name="autosavename">AUTOSAVE</string><string name="msg_marked">Označený \'%1$s\'</string><string name="msg_unmarked">Neoznačený \'%1$s\'</string><string name="mg_not_at_a_commandprompt">Ne na příkazové řádce! Hru nebylo možno uložit!</string><string name="title_activity_setting">Nastavení</string><string name="mi_fullscreen">Celá obrazovka</string><string name="msg_leave_fullscreen">Tlačítko zpět ukončí režim celé obrazovky</string><string name="hello_blank_fragment">Hello blank fragment</string><string name="title_edit_direction">Upravit směr</string><string name="err_sr_deprecated">Hry mohou být uloženy/obnoveny pouze z menu!</string><string name="msg_file_copied_you_may_delete_the_original_now">Soubor zkopírován. Nyní můžete odstranit originální soubor.</string></file><file name="library_fragment" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/menu/library_fragment.xml" qualifiers="" type="menu"/><file name="game" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/menu/game.xml" qualifiers="" type="menu"/><file name="main" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/menu/main.xml" qualifiers="" type="menu"/><file name="setting" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/menu/setting.xml" qualifiers="" type="menu"/><file path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/values-es/strings_settings.xml" qualifiers="es"><string-array name="theme_names_values">
+		<item name="0">Nemo</item>
+		<item name="1">Alice</item>
+		<item name="2">Lucy</item>
+		<item name="3">Mina</item>
+		<item name="4">Jason</item>
+		<item name="5">Atalanta</item>
+		<item name="6">Dinah</item>
+	</string-array><string-array name="theme_names">
+		<item name="0">Nemo</item>
+		<item name="1">Alice</item>
+		<item name="2">Lucy</item>
+		<item name="3">Mina</item>
+		<item name="4">Jason</item>
+		<item name="5">Atalanta</item>
+		<item name="6">Dinah</item>
+	</string-array><string-array name="font_names_values">
+		<item name="0">default</item>
+		<item name="1">sans</item>
+		<item name="2">serif</item>
+		<item name="3">monospace</item>
+		<item name="4">comicsans</item>
+		<item name="5">ziggyzoe</item>
+	</string-array><string-array name="font_names">
+		<item name="0">Default</item>
+		<item name="1">Sans</item>
+		<item name="2">Serif</item>
+		<item name="3">Monospace</item>
+		<item name="4">Comic Sans</item>
+		<item name="5">Ziggy Zoe</item>
+	</string-array><string-array name="fontsize_names_values">
+		<item name="0">small</item>
+		<item name="1">medium</item>
+		<item name="2">large</item>
+	</string-array><string-array name="fontsize_names">
+		<item name="0">Pequeña</item>
+		<item name="1">Mediana</item>
+		<item name="2">Grande</item>
+	</string-array><string name="title_theme">Tema</string><string name="font_title">Fuente</string><string name="fontsize_title">Tamaño de Fuente</string><string name="category_appearance">Apariencia</string><string name="category_audio">Audio</string><string name="keyclick_summary">Hacer click en las palabras de la historia</string><string name="keyclick_title">Retroalimentación acústica</string><string name="narrator_summary">Automáticamente leer nuevas partes de la historia (la narración se puede detener haciendo clic en un espacio vacío y se puede reiniciar al dejar presionado un espacio vacío)</string><string name="narrator_title">Texto a voz</string><string name="category_misc">Misceláneo</string><string name="smoothscrolling_title">Desplazamiento suave</string><string name="smoothscrolling_summary">Desplazar la historia suavemente</string><string name="autocollapse_keyboard">Colapsar Teclado</string><string name="hide_the_keyboard_when_pressing_done">Esconder el teclado al presionar \'Hecho\'</string><string name="msg_question_restart">Cambiar el tema requiere un inicio para tomar efecto. Reiniciar ahora?</string></file><file path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/values-es/strings.xml" qualifiers="es"><string name="action_settings">Opciones</string><string name="hello_world">Hola Mundo!</string><string name="apprater_title">Calificar esta app?</string><string name="apprater_message">Hey,\nparece que esta app te ha resultado útil. Considerarías calificarla? Esto solo tomará unos minutos de tu tiempo, pero nos motivará para seguir trabajando.</string><string name="apprater_positive">Claro!</string><string name="apprater_negative">No gracias</string><string name="apprater_neutral">Luego</string><string name="msg_corrupt_z">Archivo corrupto</string><string name="title_activity_game">ActividadDeJuego</string><string name="msg_what_next">Que sigue?</string><string name="cmd_user0">mirar</string><string name="cmd_user1">examinar</string><string name="cmd_user2">leer</string><string name="cmd_user3">si</string><string name="cmd_user4">no</string><string name="cmd_user5">abrir</string><string name="cmd_user6">cerrar</string><string name="cmd_user7">inventario</string><string name="cmd_user8">tomar</string><string name="cmd_user9">dejar</string><string name="cmd_user10">tomar todo</string><string name="cmd_user11">esperar</string><string name="cmd_user12">usar</string><string name="cmd_user13">otra vez</string><string name="msg_no_cmd">No puedes asociar un comando vacío a un botón!</string><string name="mi_add">Añadir</string><string name="title_really_delete">Eliminar en serio?</string><string name="msg_empty_library">Actualmente tu biblioteca está vacía! Para añadir juegos, selecciona \'Ver catálogo\' del menú. Utiliza \'Importar\' si tu navegador no te pasa las descargas automaticamente.</string><string name="mi_save">Guardar</string><string name="mi_restore">Restaurar</string><string name="mi_restart">Reiniciar</string><string name="mi_browse">Ver Catálogo</string><string name="mi_import">Importar</string><string name="title_select_import">Selecciona los juegos a importar</string><string name="msg_failure_import">Fallido!</string><string name="msg_nothing_to_import">No hay juegos en la carpeta de descargas!</string><string name="mi_clear_log">Limpiar</string><string name="cb_at_once">Ejecutar de una vez</string><string name="mi_help">Ayuda</string><string name="mi_settings">Opciones</string><string name="status_score">%1$s\nPuntaje: %2$d Turnos: %3$d</string><string name="status_time">%1$s\n%2$s</string><string name="title_change_commmand">Editar comando de botón</string><string name="msg_corrupt_game_file">Archivo corrupto</string><string name="mi_flip_view">Voltear vista</string><string name="title_please_confirm">Por favor confirme</string><string name="msg_really_restart">Desea reiniciar el juego?</string><string name="title_restore_game">Restaurar partida</string><string name="msg_no_savegames">No hay partidas guardadas disponibles</string><string name="msg_game_restored">Partida restaurada</string><string name="msg_restore_failed">Restauración fallida</string><string name="title_save_game">Guardar partida</string><string name="msg_game_saved">Partida guardada</string><string name="msg_no_webbrowser">No tienes un navegador!</string><string name="autosavename">AUTOGUARDADO</string><string name="msg_marked">Marcado \'%1$s\'</string><string name="msg_unmarked">Desmarcado \'%1$s\'</string><string name="mg_not_at_a_commandprompt">No es un comando! Partida no guardada!</string><string name="title_activity_setting">Opciones</string><string name="mi_fullscreen">Pantalla Completa</string><string name="msg_leave_fullscreen">Atrás para salir de pantalla completa</string><string name="hello_blank_fragment">Hola fragmento vacío</string><string name="title_edit_direction">Editar dirección</string><string name="err_sr_deprecated">Las partidas solo pueden ser restauradas desde el menú!</string><string name="msg_file_copied_you_may_delete_the_original_now">Archivo copiado. Ahora puedes borrar el original.</string></file><file path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/values-es/strings_custom.xml" qualifiers="es"><string name="app_name">Text Fiction</string><string name="url_catalog">http://www.onyxbits.de/textfiction/games</string><string name="url_help">http://www.onyxbits.de/textfiction/handbook</string><string name="url_apphome">http://www.onyxbits.de/textfiction</string><string-array name="initial_highlights">
+		<item>norte</item>
+		<item>noreste</item>
+		<item>este</item>
+		<item>sureste</item>
+		<item>sur</item>
+		<item>suroeste</item>
+		<item>oeste</item>
+		<item>noroeste</item>
+	</string-array><string-array name="initial_compass">
+		<item>Ir norte</item>
+		<item>Ir noreste</item>
+		<item>Ir este</item>
+		<item>Ir sureste</item>
+		<item>Ir sur</item>
+		<item>Ir suroeste</item>
+		<item>Ir oeste</item>
+		<item>Ir noroeste</item>
+	</string-array><string name="defaultcommands">[
+  {
+    "imgid": 0,
+    "cmd": "Mirar",
+    "atonce": true
+  },
+  {
+    "imgid": 1,
+    "cmd": "Examinar",
+    "atonce": false
+  },
+  {
+    "imgid": 8,
+    "cmd": "Tomar",
+    "atonce": false
+  },
+  {
+    "imgid": 5,
+    "cmd": "Abrir",
+    "atonce": false
+  },
+  {
+    "imgid": 6,
+    "cmd": "Cerrar",
+    "atonce": false
+  },
+  {
+    "imgid": 7,
+    "cmd": "Inventario",
+    "atonce": true
+  },
+    {
+    "imgid": 15,
+    "cmd": "Tirar",
+    "atonce": false
+  },
+    {
+    "imgid": 14,
+    "cmd": "Empujar",
+    "atonce": false
+  },
+  {
+    "imgid": 2,
+    "cmd": "Leer",
+    "atonce": false
+  },
+  {
+    "imgid": 24,
+    "cmd": "Dejar",
+    "atonce": false
+  },
+  {
+    "imgid": 22,
+    "cmd": "Dar",
+    "atonce": false
+  },
+    {
+    "imgid": 11,
+    "cmd": "Esperar",
+    "atonce": true
+  }
+
+]</string></file><file path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/values-it/strings_settings.xml" qualifiers="it"><string-array name="theme_names_values">
+		<item name="0">Nemo</item>
+		<item name="1">Alice</item>
+		<item name="2">Lucy</item>
+		<item name="3">Mina</item>
+		<item name="4">Jason</item>
+	</string-array><string-array name="theme_names">
+		<item name="0">Nemo</item>
+		<item name="1">Alice</item>
+		<item name="2">Lucy</item>
+		<item name="3">Mina</item>
+		<item name="4">Jason</item>
+	</string-array><string-array name="font_names_values">
+		<item name="0">default</item>
+		<item name="1">sans</item>
+		<item name="2">serif</item>
+		<item name="3">monospace</item>
+		<item name="4">comicsans</item>
+		<item name="5">ziggyzoe</item>
+	</string-array><string-array name="font_names">
+		<item name="0">Default</item>
+		<item name="1">Sans</item>
+		<item name="2">Serif</item>
+		<item name="3">Monospace</item>
+		<item name="4">Comic Sans</item>
+		<item name="5">Ziggy Zoe</item>
+	</string-array><string-array name="fontsize_names_values">
+		<item name="0">small</item>
+		<item name="1">medium</item>
+		<item name="2">large</item>
+	</string-array><string-array name="fontsize_names">
+		<item name="0">Piccolo</item>
+		<item name="1">Medio</item>
+		<item name="2">Grande</item>
+	</string-array><string name="title_theme">Tema</string><string name="font_title">Font</string><string name="fontsize_title">Grandezza font</string><string name="category_appearance">Grafica</string><string name="category_audio">Audio</string><string name="keyclick_summary">Click quando le parole sono toccate nella storia</string><string name="keyclick_title">Feedback acustico</string><string name="narrator_summary">Legge automaticamente i nuovi elementi della storia (la narrazione può sempre essere fermata premendo lo spazio vuoto all\'interno della voce e riavviata tenendo premuto)</string><string name="narrator_title">Text to Speech</string><string name="category_misc">Altro</string><string name="smoothscrolling_title">Scrolling lieve</string><string name="smoothscrolling_summary">Scroll della storia più lieve</string><string name="autocollapse_keyboard">Autocollassa Tastiera</string><string name="hide_the_keyboard_when_pressing_done">Nascondi la tastiera quando si preme \'Fatto\'</string><string name="msg_question_restart">Se si cambia il tema è meglio far ripartire l\'app. Va bene?</string></file><file path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/values-it/strings.xml" qualifiers="it"><string name="action_settings">Impostazioni</string><string name="hello_world">Ciao mondo!</string><string name="apprater_title">Votare quest\'app?</string><string name="apprater_message">Ciao,\nsiccome potresti aver trovato utile quest\'app, desideri dargli un voto? Questo ti farà sprecare un minuto, ma ci darà la forza di continuare nello sviluppo con maggior vigore!</string><string name="apprater_positive">Certo!</string><string name="apprater_negative">No Grazie</string><string name="apprater_neutral">Più tardi</string><string name="msg_corrupt_z">File di gioco corrotto</string><string name="title_activity_game">SchermataGioco</string><string name="msg_what_next">Cosa c\'è dopo?</string><string name="cmd_user0">look</string><string name="cmd_user1">examine</string><string name="cmd_user2">read</string><string name="cmd_user3">yes</string><string name="cmd_user4">no</string><string name="cmd_user5">open</string><string name="cmd_user6">close</string><string name="cmd_user7">inventory</string><string name="cmd_user8">get</string><string name="cmd_user9">drop</string><string name="cmd_user10">take all</string><string name="cmd_user11">wait</string><string name="cmd_user12">use</string><string name="cmd_user13">again</string><string name="msg_no_cmd">Impossibile associare un pulsante ad un comando vuoto!</string><string name="mi_add">Aggiungi</string><string name="title_really_delete">Cancellare veramente?</string><string name="msg_empty_library">Attualmente la tua libreria è vuota! Per aggiungere dei giochi, seleziona \'Sfoglia Catalogo\' dal menù. Usa \'Importa\' se il tuo browser non ti permette di gestire correttamente il download in modo automatico.</string><string name="mi_save">Salva</string><string name="mi_restore">Ripristina</string><string name="mi_restart">Ricomincia</string><string name="mi_browse">Sfoglia Catalogo</string><string name="mi_import">Importa</string><string name="title_select_import">Seleziona il gioco da importare</string><string name="msg_failure_import">Fallito!</string><string name="msg_nothing_to_import">Non è stato trovato nessun gioco nella cartella Download.</string><string name="mi_clear_log">Pulisci</string><string name="cb_at_once">Esegui una sola volta</string><string name="mi_help">Aiuto</string><string name="mi_settings">Impostazioni</string><string name="status_score">%1$s\nPunteggio: %2$d Turno: %3$d</string><string name="status_time">%1$s\n%2$s</string><string name="title_change_commmand">Modifica Comando Pulsante</string><string name="msg_corrupt_game_file">File di gioco corrotto</string><string name="mi_flip_view">Flip view</string><string name="title_please_confirm">Conferma per favore</string><string name="msg_really_restart">Desideri ricominciare il gioco?</string><string name="title_restore_game">Ricomincia gioco</string><string name="msg_no_savegames">Nessun salvataggio di gioco disponibile</string><string name="msg_game_restored">Gioco ripreso</string><string name="msg_restore_failed">Il ripristino è fallito</string><string name="title_save_game">Salva gioco</string><string name="msg_game_saved">Gioco salvato</string><string name="msg_no_webbrowser">Nessun web browser trovato!</string><string name="autosavename">AUTOSALVATAGGIO</string><string name="msg_marked">Segnato \'%1$s\'</string><string name="msg_unmarked">Non segnato \'%1$s\'</string><string name="mg_not_at_a_commandprompt">Non da commandprompt! Stato del gioco non salvato!</string><string name="title_activity_setting">Impostazioni</string><string name="mi_fullscreen">Fullscreen</string><string name="msg_leave_fullscreen">Indietro per uscire dal pieno schermo</string><string name="title_edit_direction">Cambia direzione</string><string name="err_sr_deprecated">Il gioco può essere salvato/ripristinato soltanto dal menù!</string><string name="msg_file_copied_you_may_delete_the_original_now">File copiato. Ora puoi cancellare l\'originale.</string></file><file path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/values/strings_settings.xml" qualifiers=""><string-array name="theme_names_values">
+		<item name="0">Nemo</item>
+		<item name="1">Alice</item>
+		<item name="2">Lucy</item>
+		<item name="3">Mina</item>
+		<item name="4">Jason</item>
+		<item name="5">Atalanta</item>
+		<item name="6">Dinah</item>
+		<item name="7">Grue</item>
+	</string-array><string-array name="theme_names">
+		<item name="0">Nemo</item>
+		<item name="1">Alice</item>
+		<item name="2">Lucy</item>
+		<item name="3">Mina</item>
+		<item name="4">Jason</item>
+		<item name="5">Atalanta</item>
+		<item name="6">Dinah</item>
+		<item name="7">Grue</item>
+	</string-array><string-array name="font_names_values">
+		<item name="0">default</item>
+		<item name="1">sans</item>
+		<item name="2">serif</item>
+		<item name="3">monospace</item>
+		<item name="4">comicsans</item>
+		<item name="5">ziggyzoe</item>
+	</string-array><string-array name="font_names">
+		<item name="0">Default</item>
+		<item name="1">Sans</item>
+		<item name="2">Serif</item>
+		<item name="3">Monospace</item>
+		<item name="4">Comic Sans</item>
+		<item name="5">Ziggy Zoe</item>
+	</string-array><string-array name="fontsize_names_values">
+		<item name="0">small</item>
+		<item name="1">medium</item>
+		<item name="2">large</item>
+	</string-array><string-array name="fontsize_names">
+		<item name="0">Small</item>
+		<item name="1">Medium</item>
+		<item name="2">Large</item>
+	</string-array><string name="title_theme">Theme</string><string name="font_title">Font</string><string name="fontsize_title">Fontsize</string><string name="category_appearance">Appearance</string><string name="category_audio">Audio</string><string name="keyclick_summary">Click when words are touched in a story item</string><string name="keyclick_title">Acoustic Feedback</string><string name="narrator_summary">Automatically read out new story items (narration can always be stopped by touching empty space within the item and restarted through a long touch)</string><string name="narrator_title">Text to Speech</string><string name="category_misc">Miscellaneous</string><string name="smoothscrolling_title">Smooth scrolling</string><string name="smoothscrolling_summary">Scroll the storyboard smoothly</string><string name="autocollapse_keyboard">Autocollapse Keyboard</string><string name="hide_the_keyboard_when_pressing_done">Hide the keyboard when pressing \'Done\'</string><string name="msg_question_restart">Changing the theme requires a restart to take effect. Restart now?</string></file><file path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/values/dimens.xml" qualifiers=""><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="activity_vertical_margin">16dp</dimen><dimen name="nemo.bubble_sidemargin">25dp</dimen><dimen name="nemo.bubble_topmargin">10dp</dimen><dimen name="dinah.bubble_sidemargin">25dp</dimen><dimen name="dinah.bubble_topmargin">10dp</dimen><dimen name="alice.bubble_sidemargin">25dp</dimen><dimen name="alice.bubble_topmargin">10dp</dimen><dimen name="lucy.bubble_sidemargin">25dp</dimen><dimen name="lucy.bubble_topmargin">10dp</dimen><dimen name="jason.bubble_sidemargin">25dp</dimen><dimen name="jason.bubble_topmargin">10dp</dimen></file><file path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/values/colors.xml" qualifiers=""><color name="white">#FFFFFF</color><color name="black">#000000</color></file><file path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/values/strings_accessible.xml" qualifiers=""><string name="cd_compass_northeast">compass northeast</string><string name="cd_compass_west">compass west</string><string name="cd_compass_east">compass east</string><string name="cd_compass_southwest">compass southwest</string><string name="cd_compass_south">compass south</string><string name="cd_compass_southeast">compass southeast</string><string name="cd_compass_northwest">compass northwest</string><string name="cd_compass_north">compass north</string><string name="cd_collapse_expand_command_buttons">Collapse / Expand command buttons</string><string name="cd_submit_command">Submit command</string><string name="cd_continue">Continue</string><string name="cd_toggle_onscreen_keyboard">toggle onscreen keyboard</string><string name="cd_cursor_left">cursor left</string><string name="cd_cursor_down">cursor down</string><string name="cd_cursor_up">cursor up</string><string name="cd_cursor_right">cursor right</string><string name="cd_delete_game">delete game</string></file><file path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/values/styles_dinah.xml" qualifiers=""><color name="dinah.background">#544362</color><color name="dinah.cmd_icon_tint">#A4B181</color><color name="dinah.buttonbox">#313E0F</color><color name="dinah.selected_fill">#00000000</color><color name="dinah.selected_border">#FFFFFFFF</color><color name="dinah.prompt_input">#FF000000</color><color name="dinah.pressed">#FFAAAAAA</color><color name="dinah.lefttext">#FFC1C4B5</color><color name="dinah.righttext">#FF000000</color><color name="dinah.buttontext">#FF000000</color><color name="dinah.text.inverse">#FF999999</color><color name="dinah.text.shadow">#FF000000</color><style name="Dinah" parent="AppTheme">
+		<item name="android:windowBackground">@color/dinah.background</item>
+		<item name="android:colorBackground">@color/dinah.background</item>
+		<item name="android:alertDialogStyle">@style/gingerbread_hack</item>
+		<item name="bubble_left">@style/dinah_bubble_left</item>
+		<item name="bubble_right">@style/dinah_bubble_right</item>
+		<item name="bubble_none">@style/dinah_bubble_flash</item>
+		<item name="cmdbox">@style/dinah_cmdbox</item>
+		<item name="cmdbox_buttons">@style/dinah_cmdbox_buttons</item>
+		<item name="storyboard">@style/dinah_storyboard</item>
+		<item name="library_item">@style/dinah_library_item</item>
+		<item name="library_list">@style/dinah_library_list</item>
+		<item name="library_item_text">@style/dinah_library_item_text</item>
+		<item name="upperwindow">@style/dinah_upperwindow</item>
+		<item name="prompt">@style/dinah_prompt</item>
+		<item name="loading">@style/dinah_loading</item>
+		<item name="game_wallpaper">@style/dinah_game_wallpaper</item>
+	</style><style name="dinah_game_wallpaper">
+		
+	</style><style name="dinah_loading">
+		<item name="android:indeterminateDrawable">@drawable/dinah_loading</item>
+	</style><style name="dinah_cmdbox">
+		<item name="android:background">@drawable/dinah_buttonbox</item>
+		<item name="android:padding">8dp</item>
+	</style><style name="dinah_cmdbox_buttons">
+		<item name="android:background">@drawable/nemo_btn_selector</item>
+		<item name="android:tint">@color/dinah.cmd_icon_tint</item>
+	</style><style name="dinah_storyboard">
+		<item name="android:divider">@null</item>
+	</style><style name="dinah_bubble_left">
+		<item name="android:background">@drawable/dinah_bubble_left</item>
+		<item name="android:layout_marginRight">@dimen/dinah.bubble_sidemargin</item>
+		<item name="android:layout_marginTop">@dimen/dinah.bubble_topmargin</item>
+		<item name="android:layout_gravity">left</item>
+		<item name="android:textColor">@color/dinah.lefttext</item>
+		<item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+	</style><style name="dinah_bubble_right">
+		<item name="android:background">@drawable/dinah_bubble_right</item>
+		<item name="android:layout_marginLeft">@dimen/dinah.bubble_sidemargin</item>
+		<item name="android:layout_marginTop">@dimen/dinah.bubble_topmargin</item>
+		<item name="android:layout_gravity">right</item>
+		<item name="android:textColor">@color/dinah.righttext</item>
+		<item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+	</style><style name="dinah_bubble_flash">
+		<item name="android:layout_gravity">center</item>
+		<item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+		<item name="android:typeface">monospace</item>
+		<item name="android:textColor">@color/dinah.text.inverse</item>
+		<item name="android:shadowColor">@color/dinah.text.shadow</item>
+		<item name="android:shadowDx">2</item>
+		<item name="android:shadowDy">2</item>
+		<item name="android:shadowRadius">2</item>
+	</style><style name="dinah_library_item">
+		<item name="android:background">@drawable/dinah_btn_selector</item>
+		<item name="android:textColor">@color/dinah.buttontext</item>
+	</style><style name="dinah_library_item_text">
+		<item name="android:textAppearance">?android:attr/textAppearanceLarge</item>
+		<item name="android:textColor">@color/dinah.buttontext</item>
+	</style><style name="dinah_library_list">
+		<item name="android:listSelector">@drawable/dinah_lst_selector</item>
+		<item name="android:divider">@null</item>
+	</style><style name="dinah_upperwindow">
+		<item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+		<item name="android:typeface">monospace</item>
+		<item name="android:textColor">@color/dinah.text.inverse</item>
+		<item name="android:shadowColor">@color/dinah.text.shadow</item>
+		<item name="android:shadowDx">2</item>
+		<item name="android:shadowDy">2</item>
+		<item name="android:shadowRadius">2</item>
+	</style><style name="dinah_prompt">
+		<item name="android:textColor">@color/dinah.cmd_icon_tint</item>
+		<item name="android:textColorHint">#435121</item>
+		<item name="android:background">@drawable/dinah_prompt_edit_text_holo_light</item>
+	</style></file><file path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/values/refs.xml" qualifiers=""><item name="fragment_library" type="layout">@layout/fragment_library_list</item></file><file path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/values/styles_lucy.xml" qualifiers=""><color name="lucy.background">#000000</color><color name="lucy.cmd_icon_tint">#1D2951</color><color name="lucy.selected_fill">#1D2951</color><color name="lucy.selected_border">#1D2951</color><color name="lucy.prompt_input">#8A0707</color><color name="lucy.pressed">#1D2951</color><color name="lucy.text">#8A0707</color><color name="lucy.prompt.hint">#1D2951</color><color name="lucy.text.inverse">#8A0707</color><color name="lucy.text.shadow">#771514</color><style name="Lucy" parent="AppTheme">
+		<item name="android:windowBackground">@color/lucy.background</item>
+		<item name="android:colorBackground">@color/lucy.background</item>
+		<item name="android:alertDialogStyle">@style/gingerbread_hack</item>
+		<item name="bubble_left">@style/lucy_bubble_left</item>
+		<item name="bubble_right">@style/lucy_bubble_right</item>
+		<item name="bubble_none">@style/lucy_bubble_flash</item>
+		<item name="cmdbox">@style/lucy_cmdbox</item>
+		<item name="cmdbox_buttons">@style/lucy_cmdbox_buttons</item>
+		<item name="storyboard">@style/lucy_storyboard</item>
+		<item name="library_item">@style/lucy_library_item</item>
+		<item name="library_item_text">@style/lucy_library_item_text</item>
+		<item name="library_list">@style/lucy_library_list</item>
+		<item name="upperwindow">@style/lucy_upperwindow</item>
+		<item name="prompt">@style/lucy_prompt</item>
+		<item name="loading">@style/lucy_loading</item>
+	</style><style name="lucy_loading">
+		<item name="android:indeterminateDrawable">@drawable/lucy_loading</item>
+	</style><style name="lucy_cmdbox">
+		<item name="android:background">@drawable/lucy_inputbox</item>
+	</style><style name="lucy_cmdbox_buttons">
+		<item name="android:background">@drawable/lucy_btn_selector</item>
+		<item name="android:tint">@color/lucy.cmd_icon_tint</item>
+	</style><style name="lucy_storyboard">
+		<item name="android:divider">@null</item>
+	</style><style name="lucy_bubble_left">
+		<item name="android:background">@drawable/lucy_bubble_left</item>
+		<item name="android:layout_marginRight">@dimen/lucy.bubble_sidemargin</item>
+		<item name="android:layout_marginTop">@dimen/lucy.bubble_topmargin</item>
+		<item name="android:layout_gravity">left</item>
+		<item name="android:textColor">@color/lucy.text</item>
+		<item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+	</style><style name="lucy_bubble_right">
+		<item name="android:background">@drawable/lucy_bubble_right</item>
+		<item name="android:layout_marginLeft">@dimen/lucy.bubble_sidemargin</item>
+		<item name="android:layout_marginTop">@dimen/lucy.bubble_topmargin</item>
+		<item name="android:layout_gravity">right</item>
+		<item name="android:textColor">@color/lucy.text</item>
+		<item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+	</style><style name="lucy_bubble_flash">
+		<item name="android:layout_gravity">center</item>
+		<item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+		<item name="android:typeface">monospace</item>
+		<item name="android:textColor">@color/lucy.text.inverse</item>
+		<item name="android:shadowColor">@color/lucy.text.shadow</item>
+		<item name="android:shadowDx">2</item>
+		<item name="android:shadowDy">2</item>
+		<item name="android:shadowRadius">2</item>
+	</style><style name="lucy_library_item">
+		<item name="android:background">@drawable/lucy_box</item>
+		<item name="android:textColor">@color/lucy.text</item>
+	</style><style name="lucy_library_item_text">
+		<item name="android:textAppearance">?android:attr/textAppearanceLarge</item>
+		<item name="android:textColor">@color/lucy.text</item>
+	</style><style name="lucy_library_list">
+		<item name="android:listSelector">@drawable/lucy_lst_selector</item>
+		<item name="android:divider">@null</item>
+	</style><style name="lucy_upperwindow">
+		<item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+		<item name="android:typeface">monospace</item>
+		<item name="android:textColor">@color/lucy.text.inverse</item>
+		<item name="android:shadowColor">@color/lucy.text.shadow</item>
+		<item name="android:shadowDx">2</item>
+		<item name="android:shadowDy">2</item>
+		<item name="android:shadowRadius">2</item>
+	</style><style name="lucy_prompt">
+		<item name="android:textColor">@color/lucy.prompt_input</item>
+		<item name="android:textColorHint">@color/lucy.prompt.hint</item>
+		<item name="android:background">@drawable/lucy_textfield_activated</item>
+	</style></file><file path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/values/styles_grue.xml" qualifiers=""><color name="grue.background">#000000</color><color name="grue.cmd_icon_tint">#888888</color><color name="grue.selected_fill">#00FFFFFF</color><color name="grue.bubble_right">#639dc9</color><color name="grue.selected_border">#DDDDDD</color><color name="grue.prompt_input">#639dc9</color><color name="grue.pressed">#FFAAAAAA</color><color name="grue.text">#FF9E9E9E</color><color name="grue.text.inverse">#FF9E9E9E</color><color name="grue.text.shadow">#222222</color><style name="Grue" parent="Jason">
+		<item name="android:windowBackground">@color/grue.background</item>
+		<item name="android:colorBackground">@color/grue.background</item>
+		<item name="android:alertDialogStyle">@style/gingerbread_hack</item>
+		<item name="bubble_left">@style/grue_bubble_left</item>
+		<item name="bubble_right">@style/grue_bubble_right</item>
+		<item name="bubble_none">@style/grue_bubble_flash</item>
+		<item name="cmdbox">@style/grue_cmdbox</item>
+		<item name="cmdbox_buttons">@style/grue_cmdbox_buttons</item>
+		<item name="storyboard">@style/grue_storyboard</item>
+		<item name="library_item">@style/grue_library_item</item>
+		<item name="library_list">@style/grue_library_list</item>
+		<item name="library_item_text">@style/grue_library_item_text</item>
+		<item name="upperwindow">@style/grue_upperwindow</item>
+		<item name="prompt">@style/grue_prompt</item>
+		<item name="loading">@style/grue_loading</item>
+	</style><style name="grue_loading">
+		<item name="android:indeterminateDrawable">@drawable/nemo_loading</item>
+	</style><style name="grue_cmdbox">
+		<item name="android:background">@drawable/shadedregion</item>
+	</style><style name="grue_cmdbox_buttons">
+		<item name="android:background">@drawable/nemo_btn_selector</item>
+		<item name="android:tint">@color/grue.cmd_icon_tint</item>
+	</style><style name="grue_storyboard">
+		<item name="android:divider">@null</item>
+	</style><style name="grue_bubble_left">
+		<item name="android:layout_marginRight">@dimen/jason.bubble_sidemargin</item>
+		<item name="android:layout_marginTop">@dimen/jason.bubble_topmargin</item>
+		<item name="android:layout_gravity">left</item>
+		<item name="android:textColor">@color/grue.text</item>
+		<item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+	</style><style name="grue_bubble_right">
+		<item name="android:layout_marginLeft">@dimen/jason.bubble_sidemargin</item>
+		<item name="android:layout_marginTop">@dimen/jason.bubble_topmargin</item>
+		<item name="android:layout_gravity">right</item>
+		<item name="android:textColor">@color/grue.bubble_right</item>
+		<item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+	</style><style name="grue_bubble_flash">
+		<item name="android:layout_gravity">center</item>
+		<item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+		<item name="android:typeface">monospace</item>
+		<item name="android:textColor">@color/grue.text.inverse</item>
+		<item name="android:shadowColor">@color/grue.text.shadow</item>
+		<item name="android:shadowDx">2</item>
+		<item name="android:shadowDy">2</item>
+		<item name="android:shadowRadius">2</item>
+	</style><style name="grue_library_item">
+		<item name="android:background">@drawable/grue_box</item>
+		<item name="android:textColor">@color/grue.text</item>
+	</style><style name="grue_library_item_text">
+		<item name="android:textAppearance">?android:attr/textAppearanceLarge</item>
+		<item name="android:textColor">@color/grue.text</item>
+	</style><style name="grue_library_list">
+		<item name="android:listSelector">@drawable/grue_lst_selector</item>
+		<item name="android:divider">@null</item>
+	</style><style name="grue_upperwindow">
+		<item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+		<item name="android:typeface">monospace</item>
+		<item name="android:textColor">@color/grue.text.inverse</item>
+		<item name="android:shadowColor">@color/grue.text.shadow</item>
+		<item name="android:shadowDx">2</item>
+		<item name="android:shadowDy">2</item>
+		<item name="android:shadowRadius">2</item>
+	</style><style name="grue_prompt">
+		<item name="android:textColor">@color/grue.prompt_input</item>
+	</style></file><file path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/values/styles.xml" qualifiers=""><style name="AppBaseTheme" parent="android:Theme.Light">
+		
+	</style><style name="AppTheme" parent="AppBaseTheme">
+		<item name="compass_north">@style/compass_blank</item>
+		<item name="compass_east">@style/compass_blank</item>
+		<item name="compass_northeast">@style/compass_blank</item>
+		<item name="compass_southeast">@style/compass_blank</item>
+		<item name="compass_south">@style/compass_blank</item>
+		<item name="compass_southwest">@style/compass_blank</item>
+		<item name="compass_west">@style/compass_blank</item>
+		<item name="compass_northwest">@style/compass_blank</item>
+	</style><declare-styleable name="AppTheme">
+		<attr format="reference" name="bubble_left"/>
+		<attr format="reference" name="bubble_right"/>
+		<attr format="reference" name="bubble_none"/>
+		<attr format="reference" name="cmdbox"/>
+		<attr format="reference" name="cmdbox_buttons"/>
+		<attr format="reference" name="storyboard"/>
+		<attr format="reference" name="library_item"/>
+		<attr format="reference" name="library_item_text"/>
+		<attr format="reference" name="library_list"/>
+		<attr format="reference" name="loading"/>
+		<attr format="reference" name="upperwindow"/>
+		<attr format="reference" name="prompt"/>
+		<attr format="reference" name="compass_north"/>
+		<attr format="reference" name="compass_northeast"/>
+		<attr format="reference" name="compass_east"/>
+		<attr format="reference" name="compass_southeast"/>
+		<attr format="reference" name="compass_south"/>
+		<attr format="reference" name="compass_southwest"/>
+		<attr format="reference" name="compass_west"/>
+		<attr format="reference" name="compass_northwest"/>
+		<attr format="reference" name="game_wallpaper"/>
+		<attr format="reference" name="main_wallpaper"/>
+	</declare-styleable><style name="game_wallpaper">
+	</style><style name="main_wallpaper">
+	</style><style name="compass_blank">
+		<item name="android:background">@android:color/transparent</item>
+		<item name="android:padding">0dp</item>
+		<item name="android:src">@drawable/ic_compass_blank</item>
+	</style><style name="gingerbread_hack" parent="@android:style/Theme.Dialog">
+		<item name="android:bottomBright">@color/white</item>
+		<item name="android:bottomDark">@color/white</item>
+		<item name="android:bottomMedium">@color/white</item>
+		<item name="android:centerBright">@color/white</item>
+		<item name="android:centerDark">@color/white</item>
+		<item name="android:centerMedium">@color/white</item>
+		<item name="android:fullBright">@color/white</item>
+		<item name="android:fullDark">@color/white</item>
+		<item name="android:topBright">@color/white</item>
+		<item name="android:topDark">@color/black</item>
+	</style></file><file path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/values/styles_mina.xml" qualifiers=""><color name="mina.prompt_input">#7BCC70</color><color name="mina.text">#7BCC70</color><color name="mina.text.inverse">#7BCC70</color><color name="mina.text.shadow">#771514</color><style name="Mina" parent="Lucy">
+		<item name="bubble_left">@style/mina_bubble_left</item>
+		<item name="bubble_right">@style/mina_bubble_right</item>
+		<item name="bubble_none">@style/mina_bubble_flash</item>
+		<item name="library_item_text">@style/mina_library_item_text</item>
+		<item name="upperwindow">@style/mina_upperwindow</item>
+		<item name="prompt">@style/mina_prompt</item>
+	</style><style name="mina_bubble_left" parent="@style/lucy_bubble_left">
+		<item name="android:textColor">@color/mina.text</item>
+	</style><style name="mina_bubble_right" parent="@style/lucy_bubble_right">
+		<item name="android:textColor">@color/mina.text</item>
+	</style><style name="mina_bubble_flash" parent="@style/lucy_bubble_flash">
+		<item name="android:textColor">@color/mina.text.inverse</item>
+		<item name="android:shadowColor">@color/mina.text.shadow</item>
+	</style><style name="mina_library_item_text" parent="@style/lucy_library_item_text">
+		<item name="android:textColor">@color/mina.text</item>
+	</style><style name="mina_upperwindow" parent="@style/lucy_upperwindow">
+		<item name="android:textColor">@color/mina.text.inverse</item>
+		<item name="android:shadowColor">@color/mina.text.shadow</item>
+	</style><style name="mina_prompt" parent="@style/lucy_prompt">
+		<item name="android:textColor">@color/mina.prompt_input</item>
+	</style></file><file path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/values/styles_jason.xml" qualifiers=""><color name="jason.background">#cccccc</color><color name="jason.cmd_icon_tint">#222222</color><color name="jason.selected_fill">#00000000</color><color name="jason.bubble_right">#639dc9</color><color name="jason.selected_border">#FFFFFFFF</color><color name="jason.prompt_input">#639dc9</color><color name="jason.pressed">#FFAAAAAA</color><color name="jason.text">#FF000000</color><color name="jason.text.inverse">#FF000000</color><color name="jason.text.shadow">#999999</color><style name="Jason" parent="AppTheme">
+		<item name="android:windowBackground">@color/jason.background</item>
+		<item name="android:colorBackground">@color/jason.background</item>
+		<item name="android:alertDialogStyle">@style/gingerbread_hack</item>
+		<item name="bubble_left">@style/jason_bubble_left</item>
+		<item name="bubble_right">@style/jason_bubble_right</item>
+		<item name="bubble_none">@style/jason_bubble_flash</item>
+		<item name="cmdbox">@style/jason_cmdbox</item>
+		<item name="cmdbox_buttons">@style/jason_cmdbox_buttons</item>
+		<item name="storyboard">@style/jason_storyboard</item>
+		<item name="library_item">@style/jason_library_item</item>
+		<item name="library_list">@style/jason_library_list</item>
+		<item name="library_item_text">@style/jason_library_item_text</item>
+		<item name="upperwindow">@style/jason_upperwindow</item>
+		<item name="prompt">@style/jason_prompt</item>
+		<item name="loading">@style/jason_loading</item>
+	</style><style name="jason_loading">
+		<item name="android:indeterminateDrawable">@drawable/nemo_loading</item>
+	</style><style name="jason_cmdbox">
+		<item name="android:background">@drawable/shadedregion</item>
+	</style><style name="jason_cmdbox_buttons">
+		<item name="android:background">@drawable/nemo_btn_selector</item>
+		<item name="android:tint">@color/jason.cmd_icon_tint</item>
+	</style><style name="jason_storyboard">
+		<item name="android:divider">@null</item>
+	</style><style name="jason_bubble_left">
+		<item name="android:layout_marginRight">@dimen/jason.bubble_sidemargin</item>
+		<item name="android:layout_marginTop">@dimen/jason.bubble_topmargin</item>
+		<item name="android:layout_gravity">left</item>
+		<item name="android:textColor">@color/jason.text</item>
+		<item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+	</style><style name="jason_bubble_right">
+		<item name="android:layout_marginLeft">@dimen/jason.bubble_sidemargin</item>
+		<item name="android:layout_marginTop">@dimen/jason.bubble_topmargin</item>
+		<item name="android:layout_gravity">right</item>
+		<item name="android:textColor">@color/jason.bubble_right</item>
+		<item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+	</style><style name="jason_bubble_flash">
+		<item name="android:layout_gravity">center</item>
+		<item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+		<item name="android:typeface">monospace</item>
+		<item name="android:textColor">@color/jason.text.inverse</item>
+		<item name="android:shadowColor">@color/jason.text.shadow</item>
+		<item name="android:shadowDx">2</item>
+		<item name="android:shadowDy">2</item>
+		<item name="android:shadowRadius">2</item>
+	</style><style name="jason_library_item">
+		<item name="android:background">@drawable/nemo_box</item>
+		<item name="android:textColor">@color/jason.text</item>
+	</style><style name="jason_library_item_text">
+		<item name="android:textAppearance">?android:attr/textAppearanceLarge</item>
+		<item name="android:textColor">@color/jason.text</item>
+	</style><style name="jason_library_list">
+		<item name="android:listSelector">@drawable/nemo_lst_selector</item>
+		<item name="android:divider">@null</item>
+	</style><style name="jason_upperwindow">
+		<item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+		<item name="android:typeface">monospace</item>
+		<item name="android:textColor">@color/jason.text.inverse</item>
+		<item name="android:shadowColor">@color/jason.text.shadow</item>
+		<item name="android:shadowDx">2</item>
+		<item name="android:shadowDy">2</item>
+		<item name="android:shadowRadius">2</item>
+	</style><style name="jason_prompt">
+		<item name="android:textColor">@color/jason.prompt_input</item>
+	</style></file><file path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/values/strings.xml" qualifiers=""><string name="action_settings">Settings</string><string name="hello_world">Hello world!</string><string name="apprater_title">Rate this app?</string><string name="apprater_message">Hi,\nseems like you find this app useful. Would you consider rating it? This will only take a minute of your time, but encourages further development.</string><string name="apprater_positive">Sure!</string><string name="apprater_negative">No thanks</string><string name="apprater_neutral">Later</string><string name="msg_corrupt_z">Corrupt game file</string><string name="title_activity_game">GameActivity</string><string name="msg_what_next">What next?</string><string name="cmd_user0">look</string><string name="cmd_user1">examine</string><string name="cmd_user2">read</string><string name="cmd_user3">yes</string><string name="cmd_user4">no</string><string name="cmd_user5">open</string><string name="cmd_user6">close</string><string name="cmd_user7">inventory</string><string name="cmd_user8">get</string><string name="cmd_user9">drop</string><string name="cmd_user10">take all</string><string name="cmd_user11">wait</string><string name="cmd_user12">use</string><string name="cmd_user13">again</string><string name="msg_no_cmd">Can\'t bind empty commandline to button!</string><string name="mi_add">Add</string><string name="title_really_delete">Really delete?</string><string name="msg_empty_library">Your library is currently empty! To add games, select \'Browse Catalog\' from the menu. Use \'Import\' if your browser does not hand over your downloads automatically.</string><string name="mi_save">Save</string><string name="mi_restore">Restore</string><string name="mi_restart">Restart</string><string name="mi_browse">Browse Catalog</string><string name="mi_import">Import</string><string name="title_select_import">Select games to import</string><string name="msg_failure_import">Failure!</string><string name="msg_nothing_to_import">No games found in the download folder!</string><string name="mi_clear_log">Clear</string><string name="cb_at_once">Execute at once</string><string name="mi_help">Help</string><string name="mi_settings">Settings</string><string name="status_score">%1$s\nScore: %2$d Turn: %3$d</string><string name="status_time">%1$s\n%2$s</string><string name="title_change_commmand">Edit Commmand Button</string><string name="msg_corrupt_game_file">Corrupt game file</string><string name="mi_flip_view">Flip view</string><string name="title_please_confirm">Please confirm</string><string name="msg_really_restart">Really restart the game?</string><string name="title_restore_game">Restore game</string><string name="msg_no_savegames">No savegames available</string><string name="msg_game_restored">Game restored</string><string name="msg_restore_failed">Restore failed</string><string name="title_save_game">Save game</string><string name="msg_game_saved">Game saved</string><string name="msg_no_webbrowser">No webbrowser found!</string><string name="autosavename">AUTOSAVE</string><string name="msg_marked">Marked \'%1$s\'</string><string name="msg_unmarked">Unmarked \'%1$s\'</string><string name="mg_not_at_a_commandprompt">Not at a commandprompt! Gamestate not saved!</string><string name="title_activity_setting">Settings</string><string name="mi_fullscreen">Fullscreen</string><string name="msg_leave_fullscreen">Back exits fullscreen mode</string><string name="hello_blank_fragment">Hello blank fragment</string><string name="title_edit_direction">Edit direction</string><string name="err_sr_deprecated">Games can only be saved/restored from the menu!</string><string name="msg_file_copied_you_may_delete_the_original_now">File copied. You may delete the original now.</string></file><file path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/values/styles_atalanta.xml" qualifiers=""><color name="atalanta.background">#333333</color><color name="atalanta.cmd_icon_tint">#999999</color><color name="atalanta.selected_fill">#00FFFFFF</color><color name="atalanta.bubble_right">#639dc9</color><color name="atalanta.selected_border">#DDDDDD</color><color name="atalanta.prompt_input">#639dc9</color><color name="atalanta.pressed">#FFAAAAAA</color><color name="atalanta.text">#FFCCCCCC</color><color name="atalanta.text.inverse">#FFCCCCCC</color><color name="atalanta.text.shadow">#777777</color><style name="Atalanta" parent="Jason">
+		<item name="android:windowBackground">@color/atalanta.background</item>
+		<item name="android:colorBackground">@color/atalanta.background</item>
+		<item name="android:alertDialogStyle">@style/gingerbread_hack</item>
+		<item name="bubble_left">@style/atalanta_bubble_left</item>
+		<item name="bubble_right">@style/atalanta_bubble_right</item>
+		<item name="bubble_none">@style/atalanta_bubble_flash</item>
+		<item name="cmdbox">@style/atalanta_cmdbox</item>
+		<item name="cmdbox_buttons">@style/atalanta_cmdbox_buttons</item>
+		<item name="storyboard">@style/atalanta_storyboard</item>
+		<item name="library_item">@style/atalanta_library_item</item>
+		<item name="library_list">@style/atalanta_library_list</item>
+		<item name="library_item_text">@style/atalanta_library_item_text</item>
+		<item name="upperwindow">@style/atalanta_upperwindow</item>
+		<item name="prompt">@style/atalanta_prompt</item>
+		<item name="loading">@style/atalanta_loading</item>
+	</style><style name="atalanta_loading">
+		<item name="android:indeterminateDrawable">@drawable/nemo_loading</item>
+	</style><style name="atalanta_cmdbox">
+		<item name="android:background">@drawable/shadedregion</item>
+	</style><style name="atalanta_cmdbox_buttons">
+		<item name="android:background">@drawable/nemo_btn_selector</item>
+		<item name="android:tint">@color/atalanta.cmd_icon_tint</item>
+	</style><style name="atalanta_storyboard">
+		<item name="android:divider">@null</item>
+	</style><style name="atalanta_bubble_left">
+		<item name="android:layout_marginRight">@dimen/jason.bubble_sidemargin</item>
+		<item name="android:layout_marginTop">@dimen/jason.bubble_topmargin</item>
+		<item name="android:layout_gravity">left</item>
+		<item name="android:textColor">@color/atalanta.text</item>
+		<item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+	</style><style name="atalanta_bubble_right">
+		<item name="android:layout_marginLeft">@dimen/jason.bubble_sidemargin</item>
+		<item name="android:layout_marginTop">@dimen/jason.bubble_topmargin</item>
+		<item name="android:layout_gravity">right</item>
+		<item name="android:textColor">@color/atalanta.bubble_right</item>
+		<item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+	</style><style name="atalanta_bubble_flash">
+		<item name="android:layout_gravity">center</item>
+		<item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+		<item name="android:typeface">monospace</item>
+		<item name="android:textColor">@color/atalanta.text.inverse</item>
+		<item name="android:shadowColor">@color/atalanta.text.shadow</item>
+		<item name="android:shadowDx">2</item>
+		<item name="android:shadowDy">2</item>
+		<item name="android:shadowRadius">2</item>
+	</style><style name="atalanta_library_item">
+		<item name="android:background">@drawable/lucy_box</item>
+		<item name="android:textColor">@color/atalanta.text</item>
+	</style><style name="atalanta_library_item_text">
+		<item name="android:textAppearance">?android:attr/textAppearanceLarge</item>
+		<item name="android:textColor">@color/atalanta.text</item>
+	</style><style name="atalanta_library_list">
+		<item name="android:listSelector">@drawable/nemo_lst_selector</item>
+		<item name="android:divider">@null</item>
+	</style><style name="atalanta_upperwindow">
+		<item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+		<item name="android:typeface">monospace</item>
+		<item name="android:textColor">@color/atalanta.text.inverse</item>
+		<item name="android:shadowColor">@color/atalanta.text.shadow</item>
+		<item name="android:shadowDx">2</item>
+		<item name="android:shadowDy">2</item>
+		<item name="android:shadowRadius">2</item>
+	</style><style name="atalanta_prompt">
+		<item name="android:textColor">@color/atalanta.prompt_input</item>
+	</style></file><file path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/values/strings_custom.xml" qualifiers=""><string name="app_name">Text Fiction</string><string name="url_catalog">https://textfiction.onyxbits.de/stories</string><string name="url_help">https://textfiction.onyxbits.de/instructions/</string><string name="url_apphome">https://textfiction.onyxbits.de/</string><string-array name="initial_highlights">
+		<item>north</item>
+		<item>northeast</item>
+		<item>east</item>
+		<item>southeast</item>
+		<item>south</item>
+		<item>southwest</item>
+		<item>west</item>
+		<item>northwest</item>
+	</string-array><string-array name="initial_compass">
+		<item>Go north</item>
+		<item>Go northeast</item>
+		<item>Go east</item>
+		<item>Go southeast</item>
+		<item>Go south</item>
+		<item>Go southwest</item>
+		<item>Go west</item>
+		<item>Go northwest</item>
+	</string-array><string name="defaultcommands">[
+  {
+    "imgid": 0,
+    "cmd": "Look",
+    "atonce": true
+  },
+  {
+    "imgid": 1,
+    "cmd": "Examine",
+    "atonce": false
+  },
+  {
+    "imgid": 8,
+    "cmd": "Get",
+    "atonce": false
+  },
+  {
+    "imgid": 5,
+    "cmd": "Open",
+    "atonce": false
+  },
+  {
+    "imgid": 6,
+    "cmd": "Close",
+    "atonce": false
+  },
+  {
+    "imgid": 7,
+    "cmd": "Inventory",
+    "atonce": true
+  },
+    {
+    "imgid": 15,
+    "cmd": "Pull",
+    "atonce": false
+  },
+    {
+    "imgid": 14,
+    "cmd": "Push",
+    "atonce": false
+  },
+  {
+    "imgid": 2,
+    "cmd": "Read",
+    "atonce": false
+  },
+  {
+    "imgid": 24,
+    "cmd": "Drop",
+    "atonce": false
+  },
+  {
+    "imgid": 22,
+    "cmd": "Give",
+    "atonce": false
+  },
+    {
+    "imgid": 11,
+    "cmd": "Wait",
+    "atonce": true
+  }
+
+]</string></file><file path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/values/styles_nemo.xml" qualifiers=""><color name="nemo.background">#154a5e</color><color name="nemo.cmd_icon_tint">#FF888888</color><color name="nemo.selected_fill">#00000000</color><color name="nemo.selected_border">#FFFFFFFF</color><color name="nemo.prompt_input">#FFBBBBBB</color><color name="nemo.pressed">#FFAAAAAA</color><color name="nemo.text">#FF000000</color><color name="nemo.text.inverse">#FF999999</color><color name="nemo.text.shadow">#FF000000</color><style name="Nemo" parent="AppTheme">
+		<item name="android:windowBackground">@color/nemo.background</item>
+		<item name="android:colorBackground">@color/nemo.background</item>
+		<item name="android:alertDialogStyle">@style/gingerbread_hack</item>
+		<item name="bubble_left">@style/nemo_bubble_left</item>
+		<item name="bubble_right">@style/nemo_bubble_right</item>
+		<item name="bubble_none">@style/nemo_bubble_flash</item>
+		<item name="cmdbox">@style/nemo_cmdbox</item>
+		<item name="cmdbox_buttons">@style/nemo_cmdbox_buttons</item>
+		<item name="storyboard">@style/nemo_storyboard</item>
+		<item name="library_item">@style/nemo_library_item</item>
+		<item name="library_list">@style/nemo_library_list</item>
+		<item name="library_item_text">@style/nemo_library_item_text</item>
+		<item name="upperwindow">@style/nemo_upperwindow</item>
+		<item name="prompt">@style/nemo_prompt</item>
+		<item name="loading">@style/nemo_loading</item>
+	</style><style name="nemo_loading">
+		<item name="android:indeterminateDrawable">@drawable/nemo_loading</item>
+	</style><style name="nemo_cmdbox">
+		<item name="android:background">@drawable/shadedregion</item>
+	</style><style name="nemo_cmdbox_buttons">
+		<item name="android:background">@drawable/nemo_btn_selector</item>
+		<item name="android:tint">@color/nemo.cmd_icon_tint</item>
+	</style><style name="nemo_storyboard">
+		<item name="android:divider">@null</item>
+	</style><style name="nemo_bubble_left">
+		<item name="android:background">@drawable/nemo_bubble_left</item>
+		<item name="android:layout_marginRight">@dimen/nemo.bubble_sidemargin</item>
+		<item name="android:layout_marginTop">@dimen/nemo.bubble_topmargin</item>
+		<item name="android:layout_gravity">left</item>
+		<item name="android:textColor">@color/nemo.text</item>
+		<item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+	</style><style name="nemo_bubble_right">
+		<item name="android:background">@drawable/nemo_bubble_right</item>
+		<item name="android:layout_marginLeft">@dimen/nemo.bubble_sidemargin</item>
+		<item name="android:layout_marginTop">@dimen/nemo.bubble_topmargin</item>
+		<item name="android:layout_gravity">right</item>
+		<item name="android:textColor">@color/nemo.text</item>
+		<item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+	</style><style name="nemo_bubble_flash">
+		<item name="android:layout_gravity">center</item>
+		<item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+		<item name="android:typeface">monospace</item>
+		<item name="android:textColor">@color/nemo.text.inverse</item>
+		<item name="android:shadowColor">@color/nemo.text.shadow</item>
+		<item name="android:shadowDx">2</item>
+		<item name="android:shadowDy">2</item>
+		<item name="android:shadowRadius">2</item>
+	</style><style name="nemo_library_item">
+		<item name="android:background">@drawable/nemo_box</item>
+		<item name="android:textColor">@color/nemo.text</item>
+	</style><style name="nemo_library_item_text">
+		<item name="android:textAppearance">?android:attr/textAppearanceLarge</item>
+		<item name="android:textColor">@color/nemo.text</item>
+	</style><style name="nemo_library_list">
+		<item name="android:listSelector">@drawable/nemo_lst_selector</item>
+		<item name="android:divider">@null</item>
+	</style><style name="nemo_upperwindow">
+		<item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+		<item name="android:typeface">monospace</item>
+		<item name="android:textColor">@color/nemo.text.inverse</item>
+		<item name="android:shadowColor">@color/nemo.text.shadow</item>
+		<item name="android:shadowDx">2</item>
+		<item name="android:shadowDy">2</item>
+		<item name="android:shadowRadius">2</item>
+	</style><style name="nemo_prompt">
+		<item name="android:textColor">@color/nemo.prompt_input</item>
+	</style></file><file path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/values/styles_alice.xml" qualifiers=""><color name="alice.background">#FFF373</color><color name="alice.cmd_icon_tint">#63411F</color><color name="alice.selected_fill">#00000000</color><color name="alice.selected_border">#FF8400</color><color name="alice.prompt_input">#FFBBBBBB</color><color name="alice.pressed">#FFAAAAAA</color><color name="alice.text">#FF000000</color><color name="alice.text.inverse">#FF999999</color><color name="alice.text.shadow">#FF000000</color><style name="Alice" parent="AppTheme">
+		<item name="android:windowBackground">@color/alice.background</item>
+		<item name="android:colorBackground">@color/alice.background</item>
+		<item name="bubble_left">@style/alice_bubble_left</item>
+		<item name="bubble_right">@style/alice_bubble_right</item>
+		<item name="bubble_none">@style/alice_bubble_flash</item>
+		<item name="cmdbox">@style/alice_cmdbox</item>
+		<item name="cmdbox_buttons">@style/alice_cmdbox_buttons</item>
+		<item name="storyboard">@style/alice_storyboard</item>
+		<item name="library_item">@style/alice_library_item</item>
+		<item name="library_list">@style/alice_library_list</item>
+		<item name="library_item_text">@style/alice_library_item_text</item>
+		<item name="upperwindow">@style/alice_upperwindow</item>
+		<item name="prompt">@style/alice_prompt</item>
+		<item name="loading">@style/alice_loading</item>
+	</style><style name="alice_loading">
+		<item name="android:indeterminateDrawable">@drawable/alice_loading</item>
+	</style><style name="alice_cmdbox">
+		<item name="android:background">@drawable/alice_inputbox</item>
+	</style><style name="alice_cmdbox_buttons">
+		<item name="android:background">@drawable/alice_btn_selector</item>
+		<item name="android:tint">@color/alice.cmd_icon_tint</item>
+	</style><style name="alice_storyboard">
+		<item name="android:divider">@null</item>
+	</style><style name="alice_bubble_left">
+		<item name="android:background">@drawable/alice_bubble_left</item>
+		<item name="android:layout_marginRight">@dimen/alice.bubble_sidemargin</item>
+		<item name="android:layout_marginTop">@dimen/alice.bubble_topmargin</item>
+		<item name="android:layout_gravity">left</item>
+		<item name="android:textColor">@color/alice.text</item>
+		<item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+	</style><style name="alice_bubble_right">
+		<item name="android:background">@drawable/alice_bubble_right</item>
+		<item name="android:layout_marginLeft">@dimen/alice.bubble_sidemargin</item>
+		<item name="android:layout_marginTop">@dimen/alice.bubble_topmargin</item>
+		<item name="android:layout_gravity">right</item>
+		<item name="android:textColor">@color/alice.text</item>
+		<item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+	</style><style name="alice_bubble_flash">
+		<item name="android:layout_gravity">center</item>
+		<item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+		<item name="android:typeface">monospace</item>
+		<item name="android:textColor">@color/alice.text.inverse</item>
+		<item name="android:shadowColor">@color/alice.text.shadow</item>
+		<item name="android:shadowDx">2</item>
+		<item name="android:shadowDy">2</item>
+		<item name="android:shadowRadius">2</item>
+	</style><style name="alice_library_item">
+		<item name="android:background">@drawable/alice_box</item>
+		<item name="android:textColor">@color/alice.text</item>
+	</style><style name="alice_library_item_text">
+		<item name="android:textAppearance">?android:attr/textAppearanceLarge</item>
+		<item name="android:textColor">@color/alice.text</item>
+	</style><style name="alice_library_list">
+		<item name="android:listSelector">@drawable/alice_lst_selector</item>
+		<item name="android:divider">@null</item>
+	</style><style name="alice_upperwindow">
+		<item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+		<item name="android:typeface">monospace</item>
+		<item name="android:textColor">@color/alice.text.inverse</item>
+		<item name="android:shadowColor">@color/alice.text.shadow</item>
+		<item name="android:shadowDx">2</item>
+		<item name="android:shadowDy">2</item>
+		<item name="android:shadowRadius">2</item>
+	</style><style name="alice_prompt">
+		<item name="android:textColor">@color/alice.prompt_input</item>
+	</style></file><file name="ic_action_user11" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_user11.png" qualifiers="mdpi-v4" type="drawable"/><file name="clark_textfield_disabled_holo_light" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/clark_textfield_disabled_holo_light.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_user25" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_user25.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_delete" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_delete.png" qualifiers="mdpi-v4" type="drawable"/><file name="dinah_prompt_textfield_disabled_focused_holo_light" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/dinah_prompt_textfield_disabled_focused_holo_light.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_user0" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_user0.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_left" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_left.png" qualifiers="mdpi-v4" type="drawable"/><file name="clark_textfield_default_holo_light" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/clark_textfield_default_holo_light.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_user12" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_user12.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_user19" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_user19.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_user3" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_user3.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_user23" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_user23.png" qualifiers="mdpi-v4" type="drawable"/><file name="dinah_prompt_textfield_disabled_holo_light" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/dinah_prompt_textfield_disabled_holo_light.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_compass_blank" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_compass_blank.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_submit" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_submit.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_keyboard" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_keyboard.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_clearlog" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_clearlog.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_user18" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_user18.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_down" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_down.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_save" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_save.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_user15" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_user15.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_user13" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_user13.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_browse" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_browse.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_help" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_help.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_user4" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_user4.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_forward" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_forward.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_user10" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_user10.png" qualifiers="mdpi-v4" type="drawable"/><file name="dinah_prompt_textfield_focused_holo_light" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/dinah_prompt_textfield_focused_holo_light.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_user5" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_user5.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_user14" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_user14.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_fullscreen" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_fullscreen.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_user22" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_user22.png" qualifiers="mdpi-v4" type="drawable"/><file name="dinah_prompt_textfield_default_holo_light" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/dinah_prompt_textfield_default_holo_light.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_user7" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_user7.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_user26" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_user26.png" qualifiers="mdpi-v4" type="drawable"/><file name="clark_textfield_activated_holo_light" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/clark_textfield_activated_holo_light.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_import" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_import.png" qualifiers="mdpi-v4" type="drawable"/><file name="clark_textfield_focused_holo_light" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/clark_textfield_focused_holo_light.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="clark_textfield_disabled_focused_holo_light" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/clark_textfield_disabled_focused_holo_light.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_settings" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_settings.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_user1" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_user1.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_user16" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_user16.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_user21" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_user21.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_user31" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_user31.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_user28" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_user28.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_expand" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_expand.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_user8" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_user8.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_right" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_right.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_user30" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_user30.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_user24" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_user24.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_user27" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_user27.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_user29" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_user29.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_user9" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_user9.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_user2" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_user2.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_restart" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_restart.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_user20" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_user20.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_user17" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_user17.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_up" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_up.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_user6" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_user6.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_restore" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_restore.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_flip" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/ic_action_flip.png" qualifiers="mdpi-v4" type="drawable"/><file name="dinah_prompt_textfield_activated_holo_light" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-mdpi/dinah_prompt_textfield_activated_holo_light.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="activity_game" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/layout/activity_game.xml" qualifiers="" type="layout"/><file name="activity_main" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/layout/activity_main.xml" qualifiers="" type="layout"/><file name="fragment_input" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/layout/fragment_input.xml" qualifiers="" type="layout"/><file name="quickcmdsettings" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/layout/quickcmdsettings.xml" qualifiers="" type="layout"/><file name="story_item" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/layout/story_item.xml" qualifiers="" type="layout"/><file name="fragment_library_grid" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/layout/fragment_library_grid.xml" qualifiers="" type="layout"/><file name="fragment_library_list" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/layout/fragment_library_list.xml" qualifiers="" type="layout"/><file name="style_cmdbutton" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/layout/style_cmdbutton.xml" qualifiers="" type="layout"/><file name="library_item" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/layout/library_item.xml" qualifiers="" type="layout"/><file name="activity_setting" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/layout/activity_setting.xml" qualifiers="" type="layout"/><file name="fragment_compass" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/layout/fragment_compass.xml" qualifiers="" type="layout"/><file name="slide_out_left" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/animator/slide_out_left.xml" qualifiers="" type="animator"/><file name="slide_in_right" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/animator/slide_in_right.xml" qualifiers="" type="animator"/><file path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/values-sw600dp/dimens.xml" qualifiers="sw600dp-v13"/><file path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/values-sw600dp/refs.xml" qualifiers="sw600dp-v13"><item name="fragment_library" type="layout">@layout/fragment_library_grid</item></file><file name="jason_loading" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable/jason_loading.xml" qualifiers="" type="drawable"/><file name="dinah_buttonbox" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable/dinah_buttonbox.xml" qualifiers="" type="drawable"/><file name="lucy_item_pressed" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable/lucy_item_pressed.xml" qualifiers="" type="drawable"/><file name="alice_inputbox" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable/alice_inputbox.9.png" qualifiers="" type="drawable"/><file name="dinah_bubble_left" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable/dinah_bubble_left.9.png" qualifiers="" type="drawable"/><file name="dinah_prompt_edit_text_holo_light" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable/dinah_prompt_edit_text_holo_light.xml" qualifiers="" type="drawable"/><file name="shadedregion" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable/shadedregion.9.png" qualifiers="" type="drawable"/><file name="nemo_btn_selector" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable/nemo_btn_selector.xml" qualifiers="" type="drawable"/><file name="grue_item_pressed" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable/grue_item_pressed.xml" qualifiers="" type="drawable"/><file name="alice_item_pressed" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable/alice_item_pressed.xml" qualifiers="" type="drawable"/><file name="alice_bubble_right" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable/alice_bubble_right.9.png" qualifiers="" type="drawable"/><file name="dinah_bubble_right" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable/dinah_bubble_right.9.png" qualifiers="" type="drawable"/><file name="alice_box" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable/alice_box.9.png" qualifiers="" type="drawable"/><file name="dinah_button_down" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable/dinah_button_down.9.png" qualifiers="" type="drawable"/><file name="alice_btn_pressed" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable/alice_btn_pressed.xml" qualifiers="" type="drawable"/><file name="nemo_bubble_left" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable/nemo_bubble_left.9.png" qualifiers="" type="drawable"/><file name="dinah_background" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable/dinah_background.xml" qualifiers="" type="drawable"/><file name="dinah_loading" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable/dinah_loading.xml" qualifiers="" type="drawable"/><file name="lucy_btn_pressed" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable/lucy_btn_pressed.xml" qualifiers="" type="drawable"/><file name="alice_btn_selector" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable/alice_btn_selector.xml" qualifiers="" type="drawable"/><file name="dinah_button_up" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable/dinah_button_up.9.png" qualifiers="" type="drawable"/><file name="lucy_inputbox" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable/lucy_inputbox.9.png" qualifiers="" type="drawable"/><file name="nemo_btn_pressed" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable/nemo_btn_pressed.xml" qualifiers="" type="drawable"/><file name="lucy_lst_selector" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable/lucy_lst_selector.xml" qualifiers="" type="drawable"/><file name="dinah_btn_selector" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable/dinah_btn_selector.xml" qualifiers="" type="drawable"/><file name="lucy_textfield_activated" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable/lucy_textfield_activated.9.png" qualifiers="" type="drawable"/><file name="nemo_box" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable/nemo_box.9.png" qualifiers="" type="drawable"/><file name="alice_bubble_left" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable/alice_bubble_left.9.png" qualifiers="" type="drawable"/><file name="alice_lst_selector" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable/alice_lst_selector.xml" qualifiers="" type="drawable"/><file name="nemo_loading" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable/nemo_loading.xml" qualifiers="" type="drawable"/><file name="dinah_lst_selector" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable/dinah_lst_selector.xml" qualifiers="" type="drawable"/><file name="lucy_bubble_right" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable/lucy_bubble_right.9.png" qualifiers="" type="drawable"/><file name="grue_lst_selector" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable/grue_lst_selector.xml" qualifiers="" type="drawable"/><file name="alice_loading" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable/alice_loading.xml" qualifiers="" type="drawable"/><file name="lucy_box" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable/lucy_box.9.png" qualifiers="" type="drawable"/><file name="grue_box" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable/grue_box.9.png" qualifiers="" type="drawable"/><file name="nemo_item_pressed" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable/nemo_item_pressed.xml" qualifiers="" type="drawable"/><file name="lucy_btn_selector" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable/lucy_btn_selector.xml" qualifiers="" type="drawable"/><file name="nemo_bubble_right" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable/nemo_bubble_right.9.png" qualifiers="" type="drawable"/><file name="lucy_loading" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable/lucy_loading.xml" qualifiers="" type="drawable"/><file name="lucy_bubble_left" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable/lucy_bubble_left.9.png" qualifiers="" type="drawable"/><file name="nemo_lst_selector" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable/nemo_lst_selector.xml" qualifiers="" type="drawable"/><file path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/values-sw720dp-land/dimens.xml" qualifiers="sw720dp-land-v13"><dimen name="activity_horizontal_margin">128dp</dimen></file><file path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/values-de/strings_settings.xml" qualifiers="de"><string-array name="fontsize_names">
+		<item name="0">Klein</item>
+		<item name="1">Mittel</item>
+		<item name="2">Groß</item>
+	</string-array><string name="title_theme">Thema</string><string name="fontsize_title">Font Größe</string><string name="category_appearance">Erscheinung</string><string name="keyclick_summary">Klickton bei Berührung von Worten in der Geschichte</string><string name="keyclick_title">Akkustische Rückmeldung</string><string name="narrator_summary">Neue Einträge automatisch vorlesen (kann durch Berühren von Leerräumen in Sprechblasen angehalten und durch langes Berühren neu gestartet werden)</string><string name="narrator_title">Vorlesen</string><string name="category_misc">Verschiedenes</string><string name="smoothscrolling_title">Fliesend scrollen</string><string name="smoothscrolling_summary">Text rollt fliesend</string><string name="autocollapse_keyboard">Tastatur einklappen</string><string name="hide_the_keyboard_when_pressing_done">Tastatur automatisch einklappen bei druck auf \'Fertig\'</string><string name="msg_question_restart">Um das Thema zu wechseln muss das Spiel neu gestartet werden. Jetzt neu starten?</string></file><file path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/values-de/strings.xml" qualifiers="de"><string name="app_name">Text Fiction</string><string name="action_settings">Settings</string><string name="hello_world">Hello world!</string><string name="apprater_message">Hi,\nist diese App nützlich? Wenn ja, dann wäre eine Bewertung auf Google Play sehr willkommen. Jetzt eine Bewertung schreiben?</string><string name="apprater_positive">Sicher!</string><string name="apprater_negative">Nein, danke</string><string name="apprater_neutral">Später</string><string name="msg_corrupt_z">Spieldatei defekt</string><string name="title_activity_game">GameActivity</string><string name="msg_what_next">Was nun?</string><string name="cmd_user0">look</string><string name="cmd_user1">examine</string><string name="cmd_user2">read</string><string name="cmd_user3">yes</string><string name="cmd_user4">no</string><string name="cmd_user5">open</string><string name="cmd_user6">close</string><string name="cmd_user7">inventory</string><string name="cmd_user8">get</string><string name="cmd_user9">drop</string><string name="cmd_user10">take all</string><string name="cmd_user11">wait</string><string name="cmd_user12">use</string><string name="cmd_user13">again</string><string name="msg_no_cmd">Eine leere Kommandozeile kann nicht gebunden werden!</string><string name="mi_add">Hinzufügen</string><string name="title_really_delete">Wirklich löschen?</string><string name="msg_empty_library">Die Bibliothek ist leer! Neue Spiele können über \'Katalog ansehen\' heruntergeladen und (falls der Webbrowser sie nicht automatisch übergibt) mittels \'Importieren\' eingebunden werden.</string><string name="mi_save">Speichern</string><string name="mi_restore">Laden</string><string name="mi_restart">Neu starten</string><string name="mi_browse">Katalog ansehen</string><string name="mi_import">Importieren</string><string name="title_select_import">Spiele zum importieren auswählen</string><string name="msg_failure_import">Fehler!</string><string name="msg_nothing_to_import">Keine Spiele im Downloadfolder!</string><string name="mi_clear_log">Löschen</string><string name="cb_at_once">Sofort ausführen</string><string name="mi_help">Hilfe</string><string name="mi_settings">Einstellungen</string><string name="status_score">%1$s\nScore: %2$d Turn: %3$d</string><string name="status_time">%1$s\n%2$s</string><string name="title_change_commmand">Knopf bearbeiten</string><string name="msg_corrupt_game_file">Kaputtes Spiel</string><string name="mi_flip_view">Ansicht wechseln</string><string name="title_please_confirm">Bitte bestätigen</string><string name="msg_really_restart">Spiel wirklich neu starten?</string><string name="title_restore_game">Spielstand laden</string><string name="msg_no_savegames">Keine Spielstände gefunden</string><string name="msg_game_restored">Spiel geladen</string><string name="msg_restore_failed">Laden fehlgeschlagen</string><string name="title_save_game">Spiel speichern</string><string name="msg_game_saved">Spiel gespeichert</string><string name="msg_marked">\'%1$s\' markiert</string><string name="msg_unmarked">Markierung \'%1$s\' entfernt</string><string name="msg_no_webbrowser">Kein Webbrowser gefunden!</string><string name="mg_not_at_a_commandprompt">Nicht an einer Eingabeaufforderung! Spielstand kontne nicht gespeichert werden!</string><string name="title_activity_setting">Einstellungen</string><string name="mi_fullscreen">Vollbildmodus</string><string name="msg_leave_fullscreen">Zurück beended Vollbildmodus</string><string name="title_edit_direction">Richtung bearbeiten</string><string name="err_sr_deprecated">Spiele können nur über das Menu geladen/gespeichert werden!</string><string name="msg_file_copied_you_may_delete_the_original_now">Datei kopiert. Das Original kann nun gelöscht werden.</string></file><file name="ic_action_user11" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_user11.png" qualifiers="xhdpi-v4" type="drawable"/><file name="clark_textfield_disabled_holo_light" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/clark_textfield_disabled_holo_light.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_user25" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_user25.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_delete" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_delete.png" qualifiers="xhdpi-v4" type="drawable"/><file name="dinah_prompt_textfield_disabled_focused_holo_light" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/dinah_prompt_textfield_disabled_focused_holo_light.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_user0" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_user0.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_left" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_left.png" qualifiers="xhdpi-v4" type="drawable"/><file name="clark_textfield_default_holo_light" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/clark_textfield_default_holo_light.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_user12" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_user12.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_user19" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_user19.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_user3" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_user3.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_user23" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_user23.png" qualifiers="xhdpi-v4" type="drawable"/><file name="dinah_prompt_textfield_disabled_holo_light" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/dinah_prompt_textfield_disabled_holo_light.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_compass_blank" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_compass_blank.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_submit" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_submit.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_keyboard" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_keyboard.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_clearlog" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_clearlog.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_user18" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_user18.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_down" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_down.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_save" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_save.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_user15" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_user15.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_user13" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_user13.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_browse" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_browse.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_help" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_help.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_user4" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_user4.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_forward" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_forward.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_user10" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_user10.png" qualifiers="xhdpi-v4" type="drawable"/><file name="dinah_prompt_textfield_focused_holo_light" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/dinah_prompt_textfield_focused_holo_light.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_user5" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_user5.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_user14" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_user14.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_fullscreen" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_fullscreen.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_user22" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_user22.png" qualifiers="xhdpi-v4" type="drawable"/><file name="dinah_prompt_textfield_default_holo_light" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/dinah_prompt_textfield_default_holo_light.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_user7" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_user7.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_user26" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_user26.png" qualifiers="xhdpi-v4" type="drawable"/><file name="clark_textfield_activated_holo_light" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/clark_textfield_activated_holo_light.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_import" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_import.png" qualifiers="xhdpi-v4" type="drawable"/><file name="clark_textfield_focused_holo_light" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/clark_textfield_focused_holo_light.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="clark_textfield_disabled_focused_holo_light" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/clark_textfield_disabled_focused_holo_light.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_settings" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_settings.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_user1" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_user1.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_user16" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_user16.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_user21" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_user21.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_user31" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_user31.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_user28" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_user28.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_expand" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_expand.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_user8" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_user8.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_right" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_right.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_user30" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_user30.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_user24" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_user24.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_user27" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_user27.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_user29" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_user29.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_user9" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_user9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_user2" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_user2.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_restart" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_restart.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_user20" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_user20.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_user17" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_user17.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_up" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_up.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_user6" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_user6.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_restore" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_restore.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_flip" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/ic_action_flip.png" qualifiers="xhdpi-v4" type="drawable"/><file name="dinah_prompt_textfield_activated_holo_light" path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/main/res/drawable-xhdpi/dinah_prompt_textfield_activated_holo_light.9.png" qualifiers="xhdpi-v4" type="drawable"/></source><source path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/build/generated/res/rs/debug"/><source path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/build/generated/res/resValues/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/bob/programming/AndroidStudioProjects/TextFiction-master/app/src/debug/res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="CoordinatorLayout">
+        
+        <attr format="reference" name="keylines"/>
+        
+        <attr format="color|reference" name="statusBarBackground"/>
+    </declare-styleable><declare-styleable name="FontFamilyFont">
+        
+        <attr name="fontStyle">
+            <enum name="normal" value="0"/>
+            <enum name="italic" value="1"/>
+        </attr>
+        
+        <attr format="reference" name="font"/>
+        
+        <attr format="integer" name="fontWeight"/>
+        
+        <attr format="string" name="fontVariationSettings"/>
+        
+        <attr format="integer" name="ttcIndex"/>
+        
+        <attr name="android:fontStyle"/>
+        <attr name="android:font"/>
+        <attr name="android:fontWeight"/>
+        <attr name="android:fontVariationSettings"/>
+        <attr name="android:ttcIndex"/>
+    </declare-styleable><declare-styleable name="GradientColorItem">
+        
+        <attr name="android:offset"/>
+        
+        <attr name="android:color"/>
+    </declare-styleable><declare-styleable name="FontFamily">
+        
+        <attr format="string" name="fontProviderAuthority"/>
+        
+        <attr format="string" name="fontProviderPackage"/>
+        
+        <attr format="string" name="fontProviderQuery"/>
+        
+        <attr format="reference" name="fontProviderCerts"/>
+        
+        <attr name="fontProviderFetchStrategy">
+            
+            <enum name="blocking" value="0"/>
+            
+            <enum name="async" value="1"/>
+        </attr>
+        
+        <attr format="integer" name="fontProviderFetchTimeout">
+            
+            <enum name="forever" value="-1"/>
+        </attr>
+    </declare-styleable><declare-styleable name="CoordinatorLayout_Layout">
+        <attr name="android:layout_gravity"/>
+        
+        <attr format="string" name="layout_behavior"/>
+        
+        <attr format="reference" name="layout_anchor"/>
+        
+        <attr format="integer" name="layout_keyline"/>
+
+        
+        <attr name="layout_anchorGravity">
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="center_vertical" value="0x10"/>
+            
+            <flag name="fill_vertical" value="0x70"/>
+            
+            <flag name="center_horizontal" value="0x01"/>
+            
+            <flag name="fill_horizontal" value="0x07"/>
+            
+            <flag name="center" value="0x11"/>
+            
+            <flag name="fill" value="0x77"/>
+            
+            <flag name="clip_vertical" value="0x80"/>
+            
+            <flag name="clip_horizontal" value="0x08"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+        </attr>
+
+        
+        <attr format="enum" name="layout_insetEdge">
+            
+            <enum name="none" value="0x0"/>
+            
+            <enum name="top" value="0x30"/>
+            
+            <enum name="bottom" value="0x50"/>
+            
+            <enum name="left" value="0x03"/>
+            
+            <enum name="right" value="0x05"/>
+            
+            <enum name="start" value="0x00800003"/>
+            
+            <enum name="end" value="0x00800005"/>
+        </attr>
+        
+        <attr name="layout_dodgeInsetEdges">
+            
+            <flag name="none" value="0x0"/>
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+            
+            <flag name="all" value="0x77"/>
+        </attr>
+    </declare-styleable><declare-styleable name="GradientColor">
+        
+        <attr name="android:startColor"/>
+        
+        <attr name="android:centerColor"/>
+        
+        <attr name="android:endColor"/>
+        
+        <attr name="android:type"/>
+
+        
+        
+        <attr name="android:gradientRadius"/>
+
+        
+        
+        <attr name="android:centerX"/>
+        
+        <attr name="android:centerY"/>
+
+        
+        
+        <attr name="android:startX"/>
+        
+        <attr name="android:startY"/>
+        
+        <attr name="android:endX"/>
+        
+        <attr name="android:endY"/>
+
+        
+        <attr name="android:tileMode"/>
+    </declare-styleable><declare-styleable name="ColorStateListItem">
+        
+        <attr name="android:color"/>
+        
+        <attr format="float" name="alpha"/>
+        <attr name="android:alpha"/>
+    </declare-styleable><declare-styleable name="AppTheme">
+		<attr format="reference" name="bubble_left"/>
+		<attr format="reference" name="bubble_right"/>
+		<attr format="reference" name="bubble_none"/>
+		<attr format="reference" name="cmdbox"/>
+		<attr format="reference" name="cmdbox_buttons"/>
+		<attr format="reference" name="storyboard"/>
+		<attr format="reference" name="library_item"/>
+		<attr format="reference" name="library_item_text"/>
+		<attr format="reference" name="library_list"/>
+		<attr format="reference" name="loading"/>
+		<attr format="reference" name="upperwindow"/>
+		<attr format="reference" name="prompt"/>
+		<attr format="reference" name="compass_north"/>
+		<attr format="reference" name="compass_northeast"/>
+		<attr format="reference" name="compass_east"/>
+		<attr format="reference" name="compass_southeast"/>
+		<attr format="reference" name="compass_south"/>
+		<attr format="reference" name="compass_southwest"/>
+		<attr format="reference" name="compass_west"/>
+		<attr format="reference" name="compass_northwest"/>
+		<attr format="reference" name="game_wallpaper"/>
+		<attr format="reference" name="main_wallpaper"/>
+	</declare-styleable></configuration></mergedItems></merger>
